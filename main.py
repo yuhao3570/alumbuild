@@ -16,13 +16,12 @@ import traceback
 
 TIME_TO_SLEEP = 5
 li_at = {'domain': '.www.linkedin.com',
-         'expiry': 1586900833.41436,
+         'expiry': 1596840285.423024,
          'httpOnly': True,
          'name': 'li_at',
          'path': '/',
          'secure': True,
-         'value': 'AQEDAR54LTIFL3ZqAAABbBuSsHgAAAFsjc9DxFYAmTqxgbI7kXaSTtWYFeLn7oAgY6NOOCYfBXHF4GuV'}
-
+         'value': 'AQEDAR54LTIDugIlAAABbHNn6GMAAAFsl3RsY00AdXkjtRfliwAD0CbXIieVE5L0WFc09e-py7gMYx9wzMVoMDDo9YMa0GdvGxuE4khTAPkrddvTc-yAAcPtQMGQ_0vW-tv8MQYll5xqi9fxJ0NeMHYr'}
 
 linkedIn_profile = []
 experiences = []

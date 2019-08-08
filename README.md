@@ -6,10 +6,10 @@ This project reads in alumni names and search fro their LinkedIn profile. Then s
 2. selenium
 3. mysql.connector
 
-## Run searchNewLinks 
+## Run searchNewLinks
 This step to obtain possible profile links of each alumni. Manual validation needed tp select the one ture profile.
 
-## Run loginLinkedIn.py 
+## Run loginLinkedIn.py
 ```python
 python loginLinkedIn.py -u username -p password
 ```
