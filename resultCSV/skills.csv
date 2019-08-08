@@ -1,0 +1,6171 @@
+pid,skill_name,endorsement
+1,SQL,2
+1,SDLC,2
+1,Databases,2
+1,Software Development,1
+1,Business Analysis,1
+1,Requirements Analysis,1
+1,Analysis,0
+1,Oracle,1
+1,Java,0
+1,Access,0
+1,Visual Basic,0
+4,Java,19
+4,Android,12
+4,Music,6
+4,Algorithms,5
+4,Android Development,5
+4,Unit Testing,0
+4,Agile Methodologies,0
+4,Web Development,5
+4,Research,2
+4,Sound,0
+4,Mobile Applications,2
+4,Software Development,0
+4,Python,5
+4,Databases,5
+4,Git,0
+4,C#,1
+4,SQL,0
+4,Android SDK,2
+4,C,0
+4,Teaching,1
+4,Android NDK,0
+4,Bluetooth,1
+4,Software Design Patterns,0
+5,VoIP,37
+5,Managed Services,28
+5,Telecommunications,22
+5,Unified Communications,22
+5,Telephony,16
+5,MPLS,14
+5,Ethernet,7
+5,Data Center,6
+5,Service Delivery,5
+5,Contract Management,5
+5,WAN,5
+5,Network Design,5
+5,SIP,5
+5,Optical Fiber,3
+5,Multiprotocol Label Switching (MPLS),1
+5,Project Management,1
+5,Wide Area Network (WAN),1
+5,Voice over IP (VoIP),1
+5,Session Initiation Protocol (SIP),1
+5,Cisco Technologies,3
+5,Cisco Systems Products,1
+5,Co-location,15
+5,ATM networks,6
+5,T1,5
+7,Strategy,38
+7,Entrepreneurship,22
+7,Business Development,15
+7,Strategic Planning,15
+7,Business Planning,7
+7,Business Strategy,7
+7,Product Management,6
+7,Program Management,4
+7,Consulting,3
+7,Marketing Strategy,2
+7,Leadership,14
+7,Strategic Partnerships,9
+7,Management,9
+7,Training,7
+7,Team Management,4
+13,Java,6
+13,Web Development,5
+13,Data Analysis,4
+13,Research,3
+13,Android Development,3
+13,iOS development,1
+13,JavaScript,4
+13,MySQL,4
+13,jQuery,3
+13,Ruby on Rails,2
+13,Ruby,2
+13,Microsoft Office,2
+13,Objective-C,1
+13,Scala,1
+13,AngularJS,0
+13,Go,0
+14,Collection Development,5
+14,Library,5
+14,Library Research,4
+14,Cataloging,1
+14,Archives,1
+14,Library Science,1
+14,Library Reference,3
+14,Circulation,2
+17,Software Engineering,3
+17,Technical Writing,1
+17,Testing,1
+17,Systems Engineering,1
+17,Software Development,1
+19,Market Research,12
+19,Analytics,7
+19,SaaS,7
+19,Business Intelligence,5
+19,CRM,4
+19,Data Analysis,4
+19,Project Management,3
+19,Salesforce.com,6
+19,SQL,2
+19,JavaScript,2
+19,Enterprise Software,2
+19,Leadership,6
+19,Customer Service,3
+19,Critical Thinking,1
+19,Confirmit,6
+20,Java Enterprise Edition,6
+20,FrameMaker,4
+20,Software Development,4
+20,Software Documentation,3
+20,Agile Methodologies,2
+20,User Experience,1
+20,REST,3
+20,XML,2
+20,HTML,2
+20,Management,2
+20,Leadership,2
+20,Critical Thinking,2
+22,SQL,16
+22,Software Documentation,7
+22,ASP.NET,6
+22,Data Analysis,5
+22,Research,5
+22,Program Management,5
+22,Higher Education,3
+22,Project Management,1
+22,Creative Writing,0
+22,HTML,3
+22,Microsoft Office,3
+22,Linux,2
+22,Public Speaking,3
+22,Teaching,1
+25,Content Management,18
+25,Agile Methodologies,17
+25,Open Source,12
+25,Program Management,12
+25,Software Development,11
+25,Scrum,6
+25,Technical Writing,3
+25,Project Management,2
+25,Blogging,1
+25,PMP,0
+25,Enterprise Software,9
+25,Java,7
+25,Web 2.0,5
+25,HTML,5
+25,Oracle,3
+25,XML,1
+25,Community Management,12
+25,Leadership,5
+25,FrameMaker,1
+25,User Groups,1
+25,Professional Learning Communities,1
+29,Algorithms,4
+29,Design of Experiments,3
+29,Scanning Electron Microscopy,3
+29,Materials Science,3
+29,Nanotechnology,2
+29,Software Development,1
+29,Computer Science,1
+29,Programming,1
+29,Research and Development (R&D),0
+29,Engineering,3
+29,Java,4
+29,C,0
+29,SQL,0
+29,Python,1
+29,Ruby,0
+29,Bash,0
+29,LaTeX,0
+29,TensorFlow,1
+29,Git,0
+29,Deep Learning,0
+29,NumPy,0
+29,GDB,0
+29,x86 Assembly,0
+29,Lithium-ion Batteries,1
+29,X-ray Diffraction Analysis,0
+29,Powder X-ray Diffraction,0
+29,Powder Processing,1
+29,Co-Precipitation,0
+29,Sol-gel,0
+29,Milling,0
+30,Creative Writing,7
+30,Editing,7
+30,Data Entry,5
+30,Photography,5
+30,Insurance,4
+30,Theatre,3
+30,Social Media,2
+30,Administrative Assistants,1
+30,Employee Benefits,1
+30,Copy Editing,1
+30,Event Planning,1
+30,Woodworking,0
+30,Microsoft Office,4
+30,Outlook,3
+30,PowerPoint,3
+30,Microsoft Word,2
+30,Access,1
+30,Microsoft Excel,1
+30,Photoshop,1
+30,Public Speaking,5
+30,Training,3
+30,Teaching,1
+36,Executive Support,0
+36,Computer Proficiency,0
+36,Research,0
+36,Event Planning,0
+36,Editing,0
+36,Proofreading,0
+36,Administrative Assistance,0
+36,Typing,0
+36,Higher Education,0
+36,Data Entry,0
+36,Data Mining,0
+36,Customer Service,0
+36,Public Speaking,0
+36,Leadership,0
+36,Community Outreach,0
+36,At Multitasking,0
+38,Ruby on Rails,9
+38,HTML,5
+38,JavaScript,4
+38,Editing,2
+38,Writing,0
+38,Ruby,2
+38,Word,0
+38,Excel,0
+38,PostgreSQL,0
+38,HTML + CSS,0
+39,Project Management,22
+39,Leadership,22
+39,Management,12
+39,Strategic Planning,9
+39,Program Management,6
+39,Web Design,4
+39,Account Management,4
+39,Marketing,4
+39,Sales,4
+39,Project Planning,3
+39,Marketing Strategy,3
+39,Marketing Communications,3
+39,Business Strategy,2
+39,Social Media,2
+39,Online Advertising,2
+39,Telecommunications,2
+39,Budgets,2
+39,Professional Services,1
+39,Email Marketing,1
+39,Change Management,0
+39,SaaS,1
+39,HTML,1
+39,Team Leadership,6
+39,Team Building,4
+39,Public Speaking,3
+43,Public Speaking,4
+43,Higher Education,4
+43,Community Outreach,4
+43,Event Planning,3
+43,Customer Service,2
+45,Supply Chain,51
+45,Supply Chain Management,49
+45,Product Development,30
+45,Logistics,24
+45,Forecasting,22
+45,Global Sourcing,20
+45,Strategic Planning,17
+45,Inventory Management,16
+45,Demand Planning,16
+45,Strategic Sourcing,7
+45,Succession Planning,1
+46,Software Development,0
+46,Agile Methodologies,0
+46,HTML,0
+46,Front-end Development,0
+46,JavaScript,0
+46,Cascading Style Sheets (CSS),0
+46,MySQL,0
+46,Backbone.js,0
+46,JavaScript Libraries,0
+47,Project Management,28
+47,Agile Methodologies,18
+47,Video Games,15
+47,User Experience,13
+47,Software Development,12
+47,Software Engineering,12
+47,Quality Assurance,9
+47,Product Development,5
+47,Mobile Applications,4
+47,Scrum,3
+47,Competitive Analysis,2
+47,XML,3
+47,JavaScript,3
+47,SaaS,2
+47,Android,1
+47,Management,9
+47,Leadership,9
+52,Video Production,5
+52,Social Media Marketing,0
+52,Analytics,0
+52,Videography,1
+52,Video Editing,5
+52,Marketing,0
+52,Digital Marketing,0
+52,Marketing Strategy,0
+52,Cinematography,1
+52,HD Video,1
+52,Market Analysis,0
+52,Video,4
+52,Film,1
+52,Music Videos,1
+52,Graphic Design,0
+52,Editing,0
+52,Post Production,0
+52,Film Production,0
+52,Photography,0
+52,Commercials,0
+52,Screenwriting,0
+52,Motion Graphics,0
+52,Feature Films,0
+52,Project Management,1
+52,Social Media,0
+52,Strategic Planning,0
+52,Facebook Marketing,0
+52,Video Post-Production,0
+52,Web Design,0
+52,Web Development,0
+52,Web Services,0
+52,Final Cut Pro,3
+52,Adobe Creative Suite,0
+52,Camera,1
+52,Photoshop,0
+52,Flash,0
+52,Instagram,0
+52,Facebook,0
+52,Final Cut Studio,0
+52,Public Speaking,0
+52,Customer Service,0
+52,Leadership,0
+52,Management,0
+52,Training,0
+52,Team Leadership,0
+52,Team Building,0
+52,DVD Studio Pro,2
+52,Directing,1
+52,Producing,1
+53,JavaScript,2
+53,Web Development,0
+53,Linux,2
+53,Web Applications,1
+53,User Experience,0
+53,Java,1
+53,Android,0
+53,Unix,0
+53,CSS,0
+53,Databases,0
+53,HTML,1
+54,User Experience,58
+54,User-centered Design,53
+54,Usability Testing,36
+54,Information Architecture,32
+54,Usability,25
+54,Interaction Design,20
+54,Human Computer Interaction,18
+54,User Interface,16
+54,User Experience Design,15
+54,Wireframes,9
+54,User Interface Design,7
+54,Agile Methodologies,5
+54,Mobile Devices,2
+54,Experience Design,2
+54,Wireframing,1
+54,Mobile Applications,0
+54,Enterprise Software,7
+54,Design Thinking,2
+54,Cross-functional Team Leadership,1
+54,User Research,17
+54,Heuristic Evaluation,17
+54,Usability Engineering,7
+54,Accessibility,5
+54,Persona,4
+54,Contextual Inquiry,3
+54,Task Analysis,3
+54,User Scenarios,1
+54,Mobile Design,1
+54,Card Sorting,1
+54,Wire Framing,6
+56,Research,14
+56,Data Analysis,12
+56,Blogging,7
+56,Editing,7
+56,Technical Writing,6
+56,Clinical Trials,5
+56,Grant Writing,4
+56,Proofreading,4
+56,Social Media,3
+56,Proposal Writing,3
+56,Higher Education,3
+56,Writing,3
+56,Data Management,2
+56,Nonprofits,2
+56,Newsletters,2
+56,Public Health,2
+56,Publishing,2
+56,Clinical Research,2
+56,Content Management,2
+56,Social Media Marketing,1
+56,Teaching,6
+56,Public Speaking,2
+56,Social Networking,4
+57,Artificial Intelligence,19
+57,Java,10
+57,Software Development,9
+57,Machine Learning,3
+57,Agile Project Management,0
+57,C++,7
+57,C#,4
+57,XML,2
+57,CSS,2
+57,JavaScript,1
+57,AJAX,1
+57,Flash,0
+57,JUnit,0
+57,ActionScript,0
+57,Natural Language Processing,4
+57,Common Lisp,3
+57,NUnit,0
+57,Information Extraction,0
+57,Natural Language Understanding,0
+57,Prototyping,0
+57,Speech Recognition,0
+57,Text Processing,0
+59,Microsoft Office,22
+59,Troubleshooting,19
+59,Security,17
+59,Telecommunications,5
+59,Project Management,5
+59,Research,4
+59,Technical Training,2
+59,Nonprofits,2
+59,Staff Training,1
+59,Help Desk Management,1
+59,Technical Support,1
+59,Microsoft Excel,15
+59,Windows,11
+59,HTML,9
+59,Outlook,8
+59,Java,6
+59,Access,2
+59,Microsoft Word,2
+59,Word,1
+59,Excel,1
+59,PHP,0
+59,HTML 5,0
+59,Training,16
+59,Management,14
+59,Public Speaking,11
+59,Customer Service,7
+59,Leadership,2
+59,Networking,15
+59,Technical Presentations,1
+59,Help Desk Support,6
+60,Programming,4
+60,C++,2
+60,Computer Science,1
+61,Technical Writing,4
+61,Nutrition,4
+61,Small Business,3
+61,Computer Science,1
+61,Public Speaking,3
+61,Nutritional Counseling,2
+63,Small Business,15
+63,Team Building,13
+63,Leadership,11
+63,Entrepreneurship,11
+63,Strategic Planning,10
+63,Marketing Strategy,9
+63,Start-ups,8
+63,Marketing,7
+63,Business Development,5
+63,Business Planning,4
+63,Management Consulting,4
+63,Sales Management,3
+63,Business Strategy,3
+63,Program Management,2
+63,Mergers & Acquisitions,1
+63,Account Management,1
+63,Coaching,4
+63,Training,4
+63,Management,4
+63,Negotiation,1
+63,Leadership Development,1
+63,Public Speaking,1
+63,New Business Development,9
+66,Java,11
+66,Eclipse,4
+66,Python,4
+66,Website Design,4
+66,EViews,3
+66,Matlab,3
+66,C,3
+66,Ruby on Rails,3
+66,SQL,3
+66,PHP,3
+66,HTML,4
+66,Adobe Illustrator,4
+66,Adobe Photoshop,3
+66,Microsoft PowerPoint,4
+66,Adobe Lightroom,3
+66,Microsoft Excel,8
+66,PowerPoint,10
+66,Photoshop,6
+66,Microsoft Office,5
+66,Public Speaking,8
+66,Customer Service,3
+66,Wireshark,3
+66,Adobe Bridge,2
+66,Windows Movie Maker,3
+66,Fluent in both Cantonese and Mandarin,3
+68,Litigation Support,10
+68,Legal Research,5
+68,Litigation,4
+68,Document Review,4
+68,Legal Writing,3
+68,Competition Law,2
+68,Data Analysis,1
+68,Legal Assistance,1
+68,Trials,1
+68,Legal Discovery,4
+68,Data Analytics,1
+71,Ballet,6
+71,Dance,5
+71,Theatre,2
+71,Performing Arts,2
+71,Unix,1
+71,Solaris,1
+77,Intellectual Property,11
+77,Patent Prosecution,9
+77,Patents,8
+77,Trademarks,5
+77,Licensing,4
+77,Copyright Law,3
+77,IP,3
+77,Privacy Law,1
+77,Litigation,1
+77,Corporate Law,1
+77,Trade Secrets,1
+77,Due Diligence,1
+77,Patent Litigation,4
+77,Patentability,2
+79,Software Engineering,21
+79,Java,19
+79,Software Development,15
+79,Agile Methodologies,9
+79,Scrum,3
+79,Distributed Systems,3
+79,Enterprise Architecture,2
+79,System Architecture,2
+79,SQL,14
+79,Python,9
+79,Microsoft SQL Server,7
+79,Linux,6
+79,C#,3
+79,MySQL,2
+79,Unix,2
+79,Eclipse,2
+79,Subversion,2
+79,ASP.NET,1
+79,AJAX,1
+84,Nonprofits,2
+84,Microsoft Office,2
+84,Program Management,1
+84,Project Management,1
+84,Microsoft Excel,1
+84,Microsoft Word,1
+84,Leadership,1
+84,Management,1
+85,Leadership,5
+85,Git,4
+85,XML,1
+85,Web Development,0
+85,Java,1
+85,JavaScript,1
+85,Microsoft Office,0
+85,HTML,0
+85,CSS,0
+85,WordPress,0
+85,Microsoft Excel,0
+85,PHP,0
+85,Ruby on Rails,0
+89,Adeptia,0
+89,Data Analysis,3
+89,Statistics,2
+89,Computer Science,0
+89,Programming,0
+89,Editing,2
+89,Visual Arts,0
+89,Java,1
+89,Microsoft Office,3
+89,Microsoft Excel,2
+89,Microsoft Word,2
+89,Creative Problem Solving,0
+89,Public Speaking,2
+89,Leadership,2
+89,Teaching,2
+89,Serengeti Tracker,0
+89,Legal Tracker,0
+90,Curriculum Development,27
+90,Curriculum Design,26
+90,Teaching,20
+90,Research,12
+90,Program Management,9
+90,Start-ups,8
+90,Entrepreneurship,5
+90,Nonprofits,5
+90,Program Evaluation,4
+90,Program Development,4
+90,Project Management,3
+90,Staff Development,18
+90,Public Speaking,7
+90,Teacher Training,7
+90,Training,5
+90,Qualitative Research,4
+90,Community Outreach,2
+90,Grants,1
+91,Web Development,4
+92,Natural Language Processing,9
+92,Machine Learning,8
+92,Artificial Intelligence,4
+92,Statistical Modeling,4
+92,Algorithms,1
+92,Data Mining,1
+92,Agile Methodologies,1
+92,Computer Science,0
+92,Image Processing,0
+92,Research,0
+92,Programming,0
+92,Python,4
+92,C++,1
+92,Java,1
+92,Hadoop,1
+92,SQL,1
+92,LaTeX,1
+92,Git,1
+92,Perl,1
+92,C,0
+92,XML,0
+92,HTML,0
+92,JUnit,0
+92,Eclipse,0
+92,Subversion,0
+92,Ruby,0
+92,Linux,0
+92,Machine Translation,1
+92,Weka,1
+92,Data Science,1
+92,Information Retrieval,0
+92,Text Classification,0
+92,Parsing,0
+92,Boost,0
+92,Qt,0
+92,Nutch,0
+92,Solr,0
+92,GNU/Linux,0
+92,Mallet,0
+92,Emacs,0
+92,Structured Prediction,0
+92,Machine Reading,0
+93,Higher Education,5
+93,University Teaching,4
+93,Teaching,3
+93,Curriculum Development,2
+93,Curriculum Design,2
+93,Grant Writing,1
+93,Instructional Design,1
+93,Adult Education,1
+93,Educational Technology,1
+93,Mathematica,1
+93,Tutoring,2
+101,Social Media,16
+101,Non-profits,4
+101,Nonprofits,8
+101,Research,2
+101,SEO,3
+101,Social Media Marketing,3
+101,Project Management,2
+101,Writing,2
+101,Editing,3
+101,CMS,1
+101,Community Outreach,8
+101,Training,1
+101,Management,4
+101,Fundraising,1
+103,JavaScript,18
+103,CMS,15
+103,Perl,10
+103,Content Management,10
+103,Web Development,8
+103,Programming,4
+103,E-commerce,2
+103,Software Documentation,1
+103,SQL,5
+103,Java,4
+103,JSP,3
+103,XML,2
+103,XHTML,2
+103,Web Content Management,2
+104,Oracle E-Business Suite,26
+104,Business Analysis,22
+104,Integration,19
+104,Business Intelligence,18
+104,ERP,14
+104,Requirements Analysis,8
+104,Business Process,7
+104,Enterprise Resource Planning (ERP),7
+104,Software Project Management,5
+104,Solution Architecture,5
+104,Project Management,4
+104,Data Warehousing,3
+104,Program Management,2
+104,Systems Engineering,1
+104,Oracle,16
+104,Enterprise Software,12
+104,PL/SQL,12
+104,Oracle Applications,11
+104,SQL,9
+104,Databases,3
+104,Management,5
+104,Customer Support,2
+104,Mac OS X Server,1
+104,"Languages Perl, HTML, PL/SQL, SQL, RPT Tools Developer 2000, SQL*Plu",1
+104,Cloud Computing Foundation course,1
+104,EXIN Cloud Computing Foundation Course,1
+105,Databases,16
+105,Nonprofits,12
+105,Salesforce.com,11
+105,Data Analysis,7
+105,Project Management,5
+105,Database Administration,5
+105,Strategic Planning,5
+105,Program Management,3
+105,Non-profits,2
+105,Consulting,2
+105,Nonprofit Organizations,2
+105,Fundraising,7
+105,Training,5
+105,Raiser's Edge,10
+106,Algorithms,20
+106,Distributed Systems,15
+106,Software Engineering,15
+106,Machine Learning,9
+106,Computer Science,7
+106,Programming,6
+106,Computer Graphics,5
+106,Software Design,4
+106,Software Development,3
+106,System Architecture,1
+106,OOP,1
+106,C++,13
+106,Python,11
+106,Linux,7
+106,Java,4
+106,OpenGL,4
+106,C,4
+106,Matlab,3
+106,C#,2
+106,Android,2
+106,Perl,2
+106,Embedded Systems,1
+106,Embedded Software,1
+107,Product Management,35
+107,Lead Generation,29
+107,Web Analytics,24
+107,Online Advertising,18
+107,SEM,15
+107,Affiliate Marketing,14
+107,Online Marketing,13
+107,PPC,10
+107,SEO,9
+107,E-commerce,8
+107,Analytics,8
+107,Project Management,6
+107,Search Engine Optimization (SEO),5
+107,Search Engine Marketing (SEM),4
+107,Pay Per Click (PPC),3
+107,Digital Marketing,2
+107,Google Analytics,5
+107,Google Adwords,2
+108,Facial Expressions,4
+108,Ice Climbing,4
+108,Pizza,1
+108,JavaScript,10
+108,HTML,8
+108,Git,7
+108,CSS,6
+108,SQL,4
+108,Responsibility,2
+108,Wow,7
+109,Web Development,0
+109,WordPress,0
+109,Web Services,0
+110,Python,0
+110,C,0
+110,C++,0
+110,Web Development,0
+110,Java,0
+110,Sage,0
+110,SQL,0
+110,EViews,0
+110,HTML,0
+110,SASS,0
+110,CSS,0
+110,JavaScript,0
+110,x86 Assembly,0
+111,MongoDB,22
+111,CSS,22
+111,JavaScript,19
+111,User Experience,12
+111,Web Development,11
+111,Information Architecture,8
+111,SEO,6
+111,Web Applications,6
+111,Mobile Applications,6
+111,Agile Methodologies,6
+111,E-commerce,5
+111,Web Design,3
+111,iOS development,3
+111,Software Development,3
+111,User Interface Design,2
+111,Agile Project Management,2
+111,User Interface,1
+111,Web Project Management,1
+111,Cloud Computing,1
+111,Scalability,1
+111,Linux System Administration,1
+111,SDLC,1
+111,Earned Value Management,0
+111,Risk Assessment,0
+111,PMP,0
+111,Software Engineering,0
+111,jQuery,14
+111,PHP,12
+111,MySQL,12
+111,HTML,10
+111,Apache,10
+111,Subversion,7
+111,Node.js,6
+111,Linux,6
+111,AJAX,5
+111,JSON,5
+111,WordPress,4
+111,LAMP,4
+111,Git,4
+111,XML,3
+111,Google Analytics,3
+111,Databases,3
+111,SQL,3
+111,OS X,2
+111,CMS,2
+111,ActionScript,2
+111,Amazon Web Services (AWS),2
+111,HTML 5,1
+111,Zend Framework,4
+111,IT Project & Program Management,0
+114,Research,2
+114,Teaching,2
+114,PowerPoint,1
+114,Microsoft Word,0
+114,Windows,0
+114,Customer Service,0
+114,Public Speaking,0
+114,English,1
+115,Java,4
+115,Programming,2
+117,IT Service Management,16
+117,Project Management,12
+117,Service Delivery,11
+117,CRM,8
+117,IT Strategy,6
+117,ITIL,6
+117,Program Management,4
+117,Integration,4
+117,PMP,3
+117,Software Project Management,3
+117,Project Portfolio Management,2
+117,Global Delivery,2
+117,PMO,2
+117,IT Management,2
+117,Enterprise Architecture,2
+117,Data Center,1
+117,Project Delivery,1
+117,Outsourcing,1
+117,Vendor Management,1
+117,IT Outsourcing,1
+117,Databases,5
+117,Lotus Notes,1
+117,Management,7
+117,Leadership,1
+119,SQL,4
+119,Web Applications,3
+119,Agile Methodologies,3
+119,SDLC,2
+119,Software Development,1
+119,Java,2
+119,Oracle,2
+119,AJAX,2
+119,Java Enterprise Edition,2
+119,SharePoint,1
+119,JSP,1
+119,Microsoft SQL Server,1
+119,Spring,1
+119,Hibernate,1
+120,JavaScript,0
+120,Backbone.js,0
+120,HTML,0
+120,CSS,2
+120,jQuery,0
+120,Java,3
+120,Android,1
+120,Android SDK,1
+120,Eclipse,1
+120,Git,1
+120,Microsoft Access,0
+120,Matlab,0
+120,AutoCAD,0
+120,Unigraphics,0
+120,App Inventor,0
+120,Scheme,0
+120,Mercurial,0
+120,Haskell,0
+120,Go,0
+120,CNC Machine,0
+120,WindPro,0
+120,GH WindFarmer,0
+120,WAsP,0
+121,Product Management,32
+121,Project Management,23
+121,Software Development,21
+121,PMP,20
+121,Business Intelligence,15
+121,Program Management,13
+121,Semiconductors,12
+121,Strategic Planning,10
+121,Integration,10
+121,Business Process Improvement,8
+121,Six Sigma,6
+121,Mobile Devices,3
+121,Product Marketing,2
+121,Intelligence,2
+121,SAP ERP,5
+121,SAP R/3,4
+121,Cross-functional Team Leadership,10
+121,Management,4
+121,Emotional Intelligence,2
+122,Technology Integration,5
+122,Classroom,4
+122,Staff Development,4
+122,Program Management,3
+122,Curriculum Design,2
+122,Troubleshooting,2
+122,Blogging,1
+122,K-12,0
+122,Social Media,0
+122,Laptops,1
+122,Smartboard,1
+122,Educational Technology,0
+122,iPad,1
+123,Project Management,0
+123,Product Management,0
+123,Web Development,0
+123,Product Marketing,0
+123,Web Design,0
+123,Higher Education,0
+123,Nonprofits,0
+123,Social Media,0
+123,Scrum Master,0
+123,Agile,0
+123,Scrum,0
+123,Product Development,0
+123,Program Management,0
+123,Content Management,0
+123,Technical Writing,0
+123,Project Planning,0
+123,Editing,0
+123,Email Marketing,0
+123,Strategy,0
+123,Marketing,0
+123,HTML,0
+123,CSS,0
+123,PHP,0
+123,WordPress,0
+123,jQuery,0
+123,Bootstrap,0
+123,Management,0
+123,Leadership,0
+123,Social Networking,0
+123,Web Production,0
+123,Adaptive and Responsive web,0
+123,Rally,0
+123,Basecamp,0
+123,WooCommerce,0
+125,Art,25
+125,Contemporary Art,23
+125,Sculpture,23
+125,Visual Arts,16
+125,Fine Art,15
+125,Public Art,8
+125,Mixed Media,8
+125,Art Education,6
+125,Galleries,6
+125,Craft,6
+125,Crafts,3
+125,Meditation,2
+125,Ceramic,19
+125,Clay,15
+125,Studio Art,13
+125,Murals,11
+125,Pottery,11
+125,Figurative Art,9
+125,Modern Art,8
+125,Abstraction,8
+125,Art Tile,4
+131,Java,24
+131,Perl,22
+131,Sybase,22
+131,Fixed Income,10
+131,Equities,6
+131,Business Analysis,6
+131,Cloud Computing,5
+131,Change Management,3
+131,Financial Analysis,3
+131,Project Planning,3
+131,Shell Scripting,2
+131,Analytical Skills,2
+131,Analytics,2
+131,Production Managment,1
+131,Process Optimization,1
+131,Acquisition Integration,1
+131,Intelligence,1
+131,Strategy,0
+131,Agile Methodologies,0
+131,Scrum,0
+131,Linux,18
+131,Oracle,12
+131,JIRA,11
+131,SQL,5
+131,MS Project,4
+131,Microsoft Excel,4
+131,JavaScript,3
+131,Maven,2
+131,Visio,2
+131,Tortoise SVN,2
+131,Ruby,2
+131,Microsoft Word,0
+131,Interpersonal Communication Abilities,2
+131,Distributed Team Management,2
+131,Critical Thinking,2
+131,Emotional Intelligence,1
+131,Perforce,3
+131,IT Infrastructure Management,3
+131,Production Support,2
+131,Technical Project Leadership,2
+131,Emacs,2
+131,System Migration,2
+131,Technical Project Delivery,1
+131,Team Mentoring,1
+131,Global IT Operations,1
+131,Migration Projects,1
+131,Oracle Application Server,0
+131,TWiki,0
+131,Follow Through,1
+131,Best Practices,1
+134,Strategy,50
+134,Start-ups,37
+134,Program Management,28
+134,Strategic Planning,8
+134,Business Strategy,6
+134,IT Strategy,1
+134,Research,11
+134,Cloud Computing,3
+134,Software Development,18
+134,Agile Methodologies,2
+134,Competitive Analysis,2
+134,Business Analysis,4
+134,Change Management,2
+134,Project Portfolio Management,4
+134,Entrepreneurship,19
+134,Integration,15
+134,Data Analysis,8
+134,Project Management,5
+134,Programming,4
+134,Management Consulting,4
+134,Software Project Management,4
+134,Business Intelligence,4
+134,Business Development,2
+134,Business Process Improvement,4
+134,Analysis,3
+134,Business Process,2
+134,Analytics,3
+134,E-commerce,4
+134,Data Mining,3
+134,Consulting,10
+134,Product Management,3
+134,Enterprise Software,8
+134,SaaS,1
+134,Management,24
+134,Leadership,19
+134,Cross-functional Team Leadership,2
+134,Design Thinking,4
+134,Ethnography,7
+134,Agile Leadership,1
+134,Agile Methodolgy,1
+134,Human-Centered Design,1
+135,Software Development,1
+135,Mobile Applications,1
+135,Java,1
+135,Android Development,0
+135,Visual Studio,0
+135,C++,0
+135,MFC,0
+135,Windows software development,0
+136,Java,16
+136,Web Development,12
+136,CSS,11
+136,Web Design,6
+136,Mathematics,2
+136,User Interface Design,2
+136,Design,0
+136,HTML 5,8
+136,Ruby on Rails,7
+136,Git,8
+136,HTML,7
+136,jQuery,6
+136,JavaScript,8
+136,Wordpress,4
+136,Java Enterprise Edition,2
+136,MySQL,2
+136,PHP,2
+136,JSP,2
+136,Ubuntu,1
+136,Ruby,1
+136,HTML5,4
+136,Cascading Style Sheets (CSS),2
+136,Problem Solving,2
+136,Cucumber,0
+136,Play Framework,0
+140,Process Improvement,16
+140,IT Strategy,14
+140,Program Management,13
+140,Vendor Management,10
+140,ERP,10
+140,Disaster Recovery,10
+140,Project Management,10
+140,IT Management,8
+140,Integration,8
+140,Troubleshooting,7
+140,Project Planning,5
+140,Software Documentation,3
+140,Project Portfolio Management,2
+140,Software Project Management,2
+140,ITIL,2
+140,Data Center,2
+140,Business Intelligence,1
+140,Virtualization,1
+140,SDLC,1
+140,PMP,1
+140,Scrum,0
+140,Active Directory,4
+140,Windows Server,4
+140,SQL,1
+140,Servers,1
+140,SAP,1
+140,Windows,1
+140,VMware,1
+140,Visio,1
+140,Management,8
+140,Cross-functional Team Leadership,6
+140,Leadership,5
+140,Team Leadership,5
+145,Software Development,4
+145,Agile Methodologies,3
+145,Enterprise Software,2
+145,SOA,1
+145,Integration,1
+145,Cloud Computing,0
+145,Business Intelligence,0
+145,Requirements Analysis,0
+145,Pre-sales,0
+145,SaaS,0
+145,Oracle,0
+145,Unix,0
+152,Java,9
+152,AJAX,2
+152,JavaScript,4
+152,Agile Methodologies,4
+152,Programming,2
+152,Computer Science,0
+152,Software Development,2
+152,Scala,2
+152,C++,1
+152,SoapUI,0
+152,HTML,3
+152,Python,3
+152,CSS,2
+152,MySQL,1
+152,Public Speaking,1
+152,Spanish Translation,2
+152,Lean Transformation,0
+154,Vendor Management,4
+154,Requirements Analysis,4
+154,Integration,3
+154,Business Analysis,3
+154,Agile Methodologies,2
+154,Unix,3
+155,Management,1
+155,Community Outreach,1
+155,Event Planning,1
+155,Public Speaking,1
+161,User Experience,18
+161,Product Management,13
+161,Mobile Devices,9
+161,Email Marketing,6
+161,Agile Project Management,6
+161,Online Advertising,5
+161,Web Project Management,5
+161,Interaction Design,4
+161,User Interface,4
+161,Software Design,4
+161,Project Management,4
+161,Usability Testing,3
+161,User Interface Design,1
+161,Web Development,1
+161,CMS,3
+161,JavaScript,2
+161,XML,2
+161,SharePoint,1
+162,Databases,98
+162,Solaris,62
+162,Enterprise Software,54
+162,Disaster Recovery,36
+162,Database Design,32
+162,Cloud Computing,31
+162,Data Warehousing,25
+162,Software Development,19
+162,Integration,14
+162,Architecture,11
+162,Data Center,10
+162,Database Administration,10
+162,Shell Scripting,9
+162,Troubleshooting,8
+162,Testing,8
+162,Agile Methodologies,7
+162,Distributed Systems,6
+162,Security,5
+162,Mobile Devices,5
+162,Sarbanes-Oxley Act,4
+162,Enterprise Architecture,4
+162,Operations Management,3
+162,High Availability,3
+162,Big Data,3
+162,Architectures,3
+162,Solution Architecture,3
+162,Analytics,2
+162,Business Process,2
+162,Continuous Improvement,1
+162,Sybase,41
+162,Unix,29
+162,SaaS,17
+162,SQL,10
+162,MySQL,9
+162,Linux,8
+162,Red Hat Linux,5
+162,Perl,4
+162,Servers,4
+162,Software as a Service (SaaS),1
+162,Replication,10
+162,Messaging,2
+162,Initiative,2
+162,Persistence,1
+162,Continuous Delivery,1
+162,PaaS,1
+162,IaaS,0
+162,Unix Shell Scripting,5
+162,Integrity,3
+162,Managing Database,3
+162,Resolution of complex situations and problems,1
+165,SDLC,17
+165,Test Automation,9
+165,Testing,8
+165,Test Planning,7
+165,Quality Assurance,6
+165,Agile Methodologies,3
+165,Software Quality Assurance,1
+165,Web Applications,1
+165,Test Cases,1
+165,Manual Testing,1
+165,Unix,3
+165,SQL,2
+165,Oracle,1
+165,Linux,1
+166,Customer Service,2
+166,Public Speaking,2
+166,Troubleshooting,1
+166,Sewing,1
+166,Apparel,0
+166,Quality Assurance,0
+166,Theatre,0
+166,Merchandising,0
+166,Fashion,0
+166,Microsoft Office,0
+166,Dresses,1
+166,Pattern,0
+167,SDLC,8
+167,Software Development,8
+167,Healthcare Information Technology,5
+167,Agile Methodologies,3
+167,EHR,2
+170,Human Computer Interaction,42
+170,Computer Science,15
+170,Natural Language Processing,9
+170,Machine Learning,9
+170,User-centered Design,9
+170,User Interface,4
+170,Usability Testing,4
+170,Research,2
+170,User Experience Design,1
+170,User Experience,1
+170,Interaction Design,1
+170,Data Visualization,1
+170,User Interface Design,1
+170,Microsoft Office,0
+170,Qualitative Research,1
+170,User Research,3
+170,High Performance Computing,1
+170,Speech Recognition,1
+170,Heuristic Evaluation,1
+170,Ethnography,1
+170,Cscw,0
+171,Sellers,21
+171,Real Estate,10
+171,Investors,9
+171,Foreclosures,6
+171,Condos,6
+171,Short Sales,6
+171,Relocation,4
+171,Investment Properties,3
+171,New Home Sales,3
+171,Single Family Homes,3
+171,REO,2
+171,Real Estate Transactions,2
+171,Residential Homes,1
+171,Real Property,1
+171,Listings,0
+171,Luxury,0
+171,FHA,0
+171,First Time Home Buyers,8
+171,Buyer Representation,5
+171,Referrals,5
+171,Buyers,3
+171,Property,2
+171,Selling,0
+174,Matlab,0
+174,MCNP,0
+174,Research,0
+174,Laboratory,0
+174,Chemistry,0
+174,Statistics,0
+174,Science,0
+174,Data Analysis,0
+174,Physics,0
+174,Mathematical Modeling,0
+174,Modeling,0
+174,Analytics,0
+174,LaTeX,0
+174,Java,0
+174,Python,0
+174,Communication,0
+174,University Teaching,0
+178,Event Planning,12
+178,Marketing Strategy,8
+178,Photoshop,9
+178,Social Media,13
+178,Marketing,7
+178,Advertising,6
+178,Social Media Marketing,5
+178,Research,5
+178,Contemporary Art,3
+178,Public Art,3
+178,Art,2
+178,Museums,2
+178,Art Exhibitions,2
+178,Web Design,2
+178,Graphic Design,1
+178,Photography,4
+178,Cataloging,1
+178,Editing,2
+178,InDesign,6
+178,Illustrator,2
+178,Microsoft Office,7
+178,HTML,1
+178,CSS,1
+178,PowerPoint,1
+178,Fundraising,1
+178,Public Speaking,1
+178,Administrative Work,1
+179,Web Design,21
+179,Web Development,20
+179,WordPress,14
+179,SEO,9
+179,Information Architecture,4
+179,User Experience,3
+179,User Interface Design,2
+179,Content Management,1
+179,Search Engine Optimization,0
+179,HTML,6
+179,jQuery,4
+179,Photoshop,4
+179,CMS,3
+179,CSS,3
+179,Wordpress,3
+179,XHTML,1
+179,PHP,1
+179,MySQL,1
+179,Dreamweaver,1
+179,Adobe Fireworks,1
+179,Flash,1
+179,Content Management Systems,0
+179,Custom Templates,1
+179,Web Maintenance,0
+179,Web Standards,0
+179,PSD to Wordpress,0
+182,HTML,8
+182,SQL,7
+182,Java,7
+182,Software Development,2
+182,Web Applications,1
+182,Integration,1
+182,Testing,1
+182,Project Management,0
+182,Programming,0
+182,Automation,0
+182,Mobile Applications,0
+182,Technical Support,0
+182,Software Quality Assurance,0
+182,Linux System Administration,0
+182,MySQL,7
+182,JavaScript,5
+182,Linux,4
+182,PHP,4
+182,Python,3
+182,Cascading Style Sheets (CSS),2
+182,CSS,1
+182,XML,1
+182,Microsoft SQL Server,1
+182,C,1
+182,Git,0
+182,AJAX,0
+182,Ruby,0
+182,iOS,0
+182,Customer Service,3
+182,Leadership,0
+182,Conflict Resolution,0
+182,Version Control,1
+182,Networking,0
+182,full stack engineering,0
+182,Seeing the Bigger Picture,0
+182,active listening,0
+185,Software Engineering,47
+186,Teaching,17
+186,Curriculum Development,11
+186,Elementary Education,7
+186,Literacy,6
+186,Event Planning,6
+186,Curriculum Design,5
+186,Editing,4
+186,Strategic Planning,2
+186,Data Management,1
+186,Event Management,1
+186,Database Design,0
+186,Small Business,0
+186,Mentoring,5
+186,Training,4
+186,Fundraising,4
+186,Non-profit Leadership,0
+187,E-Learning,19
+187,Project Management,16
+187,Instructional Design,14
+187,Curriculum Development,13
+187,Curriculum Design,6
+187,Research,6
+187,Entrepreneurship,5
+187,Program Management,5
+187,online education,3
+187,Consulting,3
+187,Business Strategy,3
+187,Analysis,3
+187,instructional design,2
+187,Science,2
+187,Adult Education,2
+187,Data Analysis,2
+187,Blogging,1
+187,Technical Writing,1
+187,Higher Education,1
+187,Program Development,1
+187,Editing,1
+187,Technical Training,1
+187,Multimedia,1
+187,Educational Technology,5
+187,SaaS,2
+187,Enterprise Software,1
+187,Staff Development,5
+187,Leadership,5
+187,Public Speaking,2
+187,Teaching,2
+187,Qualitative Research,2
+187,Training Delivery,2
+187,Coaching,1
+187,University Teaching,1
+187,Marketing Research,9
+187,Workshop Facilitation,1
+189,Collaboration,1
+189,Diversity & Inclusion,1
+189,Culture,1
+189,Strategy,21
+189,Software Design,1
+189,System Architecture,0
+189,Project Management,3
+189,Product Management,25
+189,User Experience,26
+189,Product Design,1
+189,User Interface Design,11
+189,Programming,3
+189,CRM,1
+189,Web Analytics,14
+189,Event Management,0
+189,Gallery Administration,0
+189,Curating,1
+189,Contemporary Art,0
+189,Visual Arts,2
+189,Music Production,0
+189,Sound Design,0
+189,Social Media,10
+189,Start-ups,0
+189,Integration,5
+189,Learning Management Systems,0
+189,Applicant Tracking Systems,0
+189,Google Apps,3
+189,Google Analytics,12
+189,Culture Change,1
+189,Creative Problem Solving,2
+189,Cross-functional Team Leadership,5
+189,Career Development,0
+189,Career Counseling,0
+189,Leadership,11
+189,Creativity,2
+189,Futurism,1
+189,Logic,1
+189,Discrete Mathematics,0
+189,Computer Architecture,0
+189,Large Scale System Integration,0
+189,Google API,2
+189,Technology,0
+189,Experiential Learning,0
+189,Instructional Technology,0
+189,Custom CMS Development,0
+189,Foundations,0
+189,Musicians,0
+189,Listening to Music,0
+189,Social Listening,0
+189,Networking,5
+191,LaTeX,2
+191,R,2
+191,Mathematics,2
+191,Data Analysis,2
+191,Statistics,2
+191,Data Mining,1
+191,Mathematica,2
+191,Matlab,2
+191,University Teaching,1
+192,Ruby on Rails,0
+192,Software Development,0
+192,Agile Methodologies,0
+192,User Experience,0
+192,Web Development,0
+192,Network Security,0
+192,Video Editing,0
+192,Photography,0
+192,Network Administration,0
+192,Linux System Administration,0
+192,Agile & Waterfall Methodologies,0
+192,JavaScript,0
+192,HTML,0
+192,Git,0
+192,CSS,0
+192,Ruby,0
+192,SASS,0
+192,HTML 5,0
+192,jQuery,0
+192,Linux,0
+192,Django,0
+192,Java,0
+192,Python,0
+192,Amazon Web Services (AWS),0
+192,Node.js,0
+192,PHP,0
+192,Adobe Premiere Pro,0
+192,Adobe Photoshop,0
+192,Three.js,0
+192,AWS,0
+192,Microsoft Office,0
+192,MySQL,0
+192,C#,0
+192,Food Slumming,0
+192,Raspberry Pi,0
+192,Email Campaigning,0
+192,JavaScript Libraries,0
+192,WebVR,0
+192,AFrame,0
+192,Virtual Reality,0
+192,Creative Concept Design,0
+192,Interactive Creative Direction,0
+192,Interactive Web,0
+192,Interactive Video,0
+192,p,0
+192,Adobe C,0
+192,Agile Web Development,0
+192,Agile Application Development,0
+192,GruntJS,0
+192,Unity3D,0
+196,JavaScript,11
+196,CSS,10
+196,HTML 5,4
+196,Software Engineering,4
+196,Web Development,2
+196,User Experience,2
+196,User Interface Design,1
+196,Algorithms,3
+196,Android Development,0
+196,Test Driven Development,0
+196,jQuery,3
+196,Java,2
+196,Ruby on Rails,1
+196,Backbone.js,0
+196,Ruby,1
+196,Git,1
+196,Github,0
+196,Adobe Creative Suite,0
+196,Linux,0
+196,HTML5,1
+196,Marionette.js,0
+196,Agile Application Development,0
+196,Cucumber,0
+196,RSpec,0
+196,Heroku,0
+197,Healthcare,3
+197,Management,2
+197,Qigong,2
+197,Healing,2
+197,Project Management,2
+197,Medicine,2
+197,Wellness,1
+197,SDLC,0
+197,Research,0
+197,Data Analysis,0
+197,Software Documentation,0
+197,HTML,1
+197,Oracle,0
+197,Windows,0
+197,Microsoft Office,0
+197,Databases,0
+197,Access,0
+197,Microsoft Excel,0
+197,Teaching,1
+197,Public Speaking,1
+197,Leadership,0
+202,Java,19
+202,Program Management,18
+202,Scalability,12
+202,Editing,12
+202,Security,12
+202,Technical Writing,10
+202,E-Learning,9
+202,Agile Methodologies,8
+202,Cloud Computing,7
+202,Video,6
+202,Distributed Systems,6
+202,Agile Project Management,6
+202,Software Engineering,6
+202,Content Management,5
+202,Software Development,5
+202,Product Management,4
+202,Software Documentation,3
+202,Wireless Networking,0
+202,Privacy,0
+202,Incident Management,0
+202,Android,10
+202,Linux,5
+202,Enterprise Software,4
+202,HTML,4
+202,Team Leadership,8
+202,Data Privacy,1
+204,Music,31
+204,Composition,25
+204,Recording,16
+204,Music Theory,12
+204,Research,9
+204,Performing Arts,7
+204,Festivals,7
+204,Social Media,6
+204,Sound,6
+204,Music Education,5
+204,Blogging,3
+204,Nonprofits,2
+204,Theatre,2
+204,Non-profits,1
+204,Improvisation,7
+204,Teaching,5
+204,Public Speaking,1
+204,Computer Music,4
+204,Bass Guitar,3
+204,Synthesizers,2
+204,Music Festivals,1
+204,Social Networking,8
+207,Editing,18
+207,Research,18
+207,ArcGIS,9
+207,Copy Editing,8
+207,Nonprofits,7
+207,Grant Writing,6
+207,Publications,4
+207,Blogging,3
+207,Press Releases,2
+207,Translation,2
+207,History,2
+207,Proofreading,2
+207,Nonprofit Organizations,1
+207,Newsletters,0
+207,Data Analysis,0
+207,HTML 5,7
+207,HTML5,3
+207,QuickBooks,3
+207,Quickbooks,1
+207,Adobe Creative Suite,1
+207,Photoshop,1
+207,QGIS,0
+207,Teaching,5
+207,Community Outreach,5
+207,FileMaker,3
+207,Quicken,1
+207,Filemaker Pro,1
+207,Editorial,1
+209,API Development,3
+209,Agile Methodologies,7
+209,Java,10
+209,E-commerce,9
+209,Scrum,5
+209,Cloud Computing,3
+209,Integration,4
+209,Web Applications,5
+209,Ruby on Rails,7
+209,Enterprise Software,8
+209,MongoDB,4
+209,Spring Framework,0
+215,Algorithms,7
+215,Computer Science,4
+215,Programming,3
+215,Simulations,2
+215,Distributed Systems,1
+215,Embedded Systems,3
+215,Operating Systems,2
+215,Unix,1
+220,Enterprise Software,19
+220,SaaS,15
+220,Cloud Computing,9
+220,CRM,7
+220,Business Intelligence,7
+220,Product Management,3
+220,ERP,3
+220,Agile Methodologies,2
+220,Software Development,1
+220,Requirements Analysis,1
+220,Integration,1
+220,Software Industry,0
+220,Management,1
+221,Java,3
+221,Android Development,2
+221,Ruby on Rails,2
+221,Nonprofits,2
+221,Curriculum Development,1
+221,Editing,2
+221,Ruby,1
+221,Git,1
+221,MySQL,1
+221,JavaScript,1
+221,Bash,0
+221,Android SDK,1
+221,Github,1
+221,jQuery,1
+221,HTML,0
+221,Eclipse,1
+221,Teaching,8
+221,Community Outreach,3
+221,Tutoring,4
+221,Spanish,3
+221,Back-end Development,0
+221,HAML,0
+221,CoffeeScript,0
+221,Coding Experience,1
+221,Haskell,1
+221,Scheme,1
+222,Java,8
+222,Ruby on Rails,8
+222,CSS,7
+222,Computer Science,6
+222,Algorithms,6
+222,Software Development,5
+222,Research,6
+222,Higher Education,1
+222,Editing,1
+222,Literature,1
+222,HTML,7
+222,Educational Technology,1
+222,Cascading Style Sheets (CSS),1
+222,University Teaching,3
+222,Teaching,3
+222,Public Speaking,4
+222,Lecturing,0
+222,German,4
+222,Literature Teaching,1
+222,Digital Humanities Teaching,2
+222,German Language Teaching,2
+222,Editing and Translating,1
+222,German Intellectual History,1
+222,German Teaching,2
+222,Philosophy,1
+222,Digital Humanities,1
+222,Object Oriented Software,1
+223,Data Analysis,8
+223,Statistics,9
+223,R,4
+223,Quantitative Research,7
+223,Computer Science,4
+223,Research Design,1
+223,Research,3
+223,Machine Learning,1
+223,Privacy,0
+223,Sociology,2
+223,Human Computer Interaction,0
+223,Python,1
+223,SQL,2
+223,pandas,0
+223,PL/SQL,1
+223,SAS,3
+223,Java,1
+223,Teaching,1
+223,Qualitative Research,3
+223,Data Science,1
+223,Healthcare Analytics,1
+223,Social Network Analysis,0
+223,Scikit-Learn,0
+231,Economics,3
+231,Microsoft Excel,2
+231,PowerPoint,2
+231,Social Media,2
+231,International Trade,1
+231,Cpr Certified,1
+231,Mathematics,0
+231,First Aid Certified,0
+231,Microsoft Word,1
+231,Microeconomics,1
+231,Organization,0
+233,CAPA,20
+233,Change Control,15
+233,LIMS,11
+233,21 CFR Part 11,8
+233,GMP,6
+233,Sop,5
+233,FDA,5
+233,Biotechnology,4
+233,Validation,3
+233,Biopharmaceuticals,3
+233,Quality System,2
+233,Quality Assurance,2
+233,Quality Auditing,2
+233,Microbiology,1
+233,V&V,1
+233,HPLC,1
+233,Cell Culture,1
+233,GLP,1
+233,Quality Control,1
+233,ISO 13485,1
+233,Pharmaceutical Industry,1
+233,Technology Transfer,1
+233,Medical Devices,1
+233,Chromatography,1
+233,SOP,1
+233,Deviations,5
+233,Aseptic Processing,4
+233,GAMP,3
+233,GxP,2
+233,Aseptic Technique,2
+233,Trackwise,1
+233,Environmental Monitoring,1
+233,Computer System Validation,1
+237,Programming,6
+237,ATDD,2
+237,User Interface,6
+237,Game Development,2
+237,Game Design,1
+237,Software Development,2
+237,User Interface Design,1
+237,Agile,0
+237,Responsive Web Design,0
+237,Rapid Prototyping,0
+237,Java,5
+237,JavaScript,4
+237,C#,0
+237,AngularJS,2
+237,HTML 5,4
+237,CSS,3
+237,SASS,1
+237,jQuery,1
+237,HTML,3
+237,Android,3
+237,Angular 2,2
+237,Spring Boot,2
+237,Spring Cloud,2
+237,Node.js,2
+237,Microsoft Office,1
+237,Oracle Database,1
+237,PostgreSQL,1
+237,MySQL,0
+237,Eclipse,2
+237,NetBeans,0
+237,Visual Studio,0
+237,OS X,3
+237,Windows,0
+237,JSF,0
+237,JPA,0
+237,Bootstrap,0
+237,JUnit,0
+237,Vue,0
+237,TypeScript,2
+237,Gulp.js,1
+237,Microservices,2
+237,Netflix OSS,2
+237,Webstorm,1
+237,Gimp,0
+237,Jasmine Framework,0
+237,Firebase,0
+238,Business Analysis,22
+238,Equities,19
+238,Middle Office,11
+238,Program Management,10
+238,Strategy,9
+238,Project Management,8
+238,Emerging Markets,6
+238,Derivatives,4
+238,Investment Banking,2
+238,Bonds,1
+238,Risk Management,1
+238,Fixed Income,1
+238,Trading,1
+238,Business Process Improvement,0
+238,Data Analysis,0
+238,Six Sigma,0
+238,SQL,3
+238,Trading Systems,2
+238,Problem Solving,1
+238,Team Building,0
+238,Prime Brokerage,6
+238,Relational Data Modeling,0
+238,Operating Models,0
+238,Application Re-engineering,0
+239,Video Production,2
+239,Final Cut Pro,0
+239,Photoshop,0
+239,Film,0
+239,Editing,0
+239,Film Production,0
+239,Writing,0
+239,Post Production,0
+239,Television,0
+239,Creative Writing,0
+239,Social Media,0
+239,Video,0
+239,InDesign,0
+239,After Effects,0
+244,Online Advertising,31
+244,Digital Media,20
+244,Email Marketing,20
+244,Digital Strategy,13
+244,Marketing,11
+244,Digital Marketing,11
+244,E-commerce,10
+244,Public Relations,10
+244,SEM,7
+244,Content Strategy,7
+244,Start-ups,4
+244,Mobile Applications,3
+244,Event Management,3
+244,Online Marketing,1
+244,Web Development,1
+244,CMS,2
+244,Website Development,1
+248,Java,17
+248,HTML,12
+248,CSS,9
+248,GraphQL,0
+248,TypeScript,0
+250,Security,26
+250,Databases,15
+250,Technical Writing,11
+250,Program Management,14
+250,Analysis,13
+250,Information Security,12
+250,System Administration,13
+250,Programming,3
+250,SDLC,4
+250,Information Assurance,4
+250,Data Analysis,2
+250,DoD,1
+250,Business Intelligence,1
+250,Software Development Life Cycle (SDLC),2
+250,Integration,2
+250,Business Analysis,3
+250,IT Management,4
+250,Linux,4
+250,Java,5
+250,Visio,5
+250,HTML,2
+250,Perl,2
+250,JavaScript,2
+250,C,1
+250,C++,1
+250,PHP,1
+250,Unix,2
+250,Public Speaking,6
+250,Team Leadership,5
+250,Networking,6
+254,Interaction Design,8
+254,User Interface,7
+254,Usability Testing,6
+254,Usability,5
+254,User-centered Design,4
+254,Nonprofits,2
+254,Web Development,1
+254,User Experience,1
+254,Non-profits,0
+254,Persona,3
+254,Usability Engineering,1
+259,Test Automation,13
+259,Agile Methodologies,12
+259,Distributed Systems,8
+259,Software Engineering,8
+259,Software Quality Assurance,4
+259,Python,3
+259,Selenium,2
+261,Testing,8
+261,Enterprise Software,7
+261,Storage,7
+261,Quality Assurance,6
+261,NAS,5
+261,TCP/IP,4
+261,Software Engineering,4
+261,Agile Methodologies,4
+261,Test Automation,4
+261,Shell Scripting,4
+261,Security,3
+261,Start-ups,2
+261,Software Development,2
+261,Web Applications,1
+261,Network-Attached Storage (NAS),1
+261,Internet Protocol Suite (TCP/IP),1
+261,Perl,5
+261,Unix,5
+261,Operating Systems,4
+261,Solaris,4
+261,Linux,3
+261,Databases,3
+261,C,2
+261,Java,2
+261,Windows,1
+261,Management,1
+261,File Systems,4
+261,Networking,4
+261,Netbackup,1
+270,Software Development,30
+270,Agile Methodologies,24
+270,XML,21
+270,Web Services,15
+270,Business Intelligence,9
+270,Software Engineering,2
+270,Scrum,6
+270,Algorithms,1
+270,Cloud Computing,6
+270,Strategic Planning,4
+270,SDLC,2
+270,SAS programming,1
+270,Software Development Life Cycle (SDLC),1
+270,Java,15
+270,JavaScript,4
+270,AJAX,0
+270,jQuery,0
+270,JSON,0
+270,COBOL,8
+270,JCL,3
+270,C,1
+270,Visual Basic,12
+270,SQL,15
+270,Microsoft SQL Server,19
+270,MySQL,4
+270,Unix,25
+270,Linux,5
+270,Enterprise Software,20
+270,SaaS,4
+270,Subversion,2
+270,Tomcat,2
+270,Python,0
+270,Eclipse,6
+270,Hibernate,1
+270,HP Quality Center,0
+270,DHTML,0
+270,CICS,4
+270,IBM Mainframe,3
+270,Microfocus,0
+270,SCLM,0
+270,Putty,0
+271,User Experience,57
+271,Design Strategy,4
+271,Interaction Design,32
+271,Information Architecture,32
+271,Usability Testing,20
+271,User-centered Design,16
+271,Experience Design,9
+271,Usability,15
+271,User Experience Design,21
+271,Wireframes,26
+271,Enterprise Software,7
+271,User Research,15
+271,Persona,6
+272,Bodywork,34
+272,Therapeutic Massage,28
+272,Myofascial Release,25
+272,Sports Injuries,18
+272,Back Pain,13
+272,Wellness,13
+272,Pain Management,12
+272,Deep Tissue Massage,6
+272,Headaches,5
+272,Pilates,20
+272,Trigger Point Therapy,16
+272,Stretching,16
+272,Injury,8
+272,Neck Pain,8
+272,Shoulder Pain,5
+272,Neuromuscular Therapy,4
+272,Wellbeing,6
+279,Data Analysis,9
+279,Research,5
+279,Ruby on Rails,2
+279,Analysis,2
+279,Android Development,1
+279,Process Improvement,0
+279,Java,2
+279,Python,1
+279,Ruby,1
+279,MySQL,1
+279,Public Speaking,2
+279,Qualitative Research,2
+279,Negotiation,0
+279,Teaching,0
+279,Operational Process Analysis,0
+279,Agile Methodolgy,0
+284,Python,10
+284,Django,7
+284,JavaScript,6
+284,Backbone.js,3
+284,Node.js,2
+284,PostgreSQL,2
+284,Java,8
+284,Git,6
+284,Meteor.js,2
+284,MongoDB,1
+284,jQuery,3
+284,HTML5,3
+284,D3.js,0
+284,CSS,1
+284,Redis,1
+284,Splunk,1
+287,Sales,16
+287,Luxury Goods,9
+287,Management,8
+287,Marketing Strategy,8
+287,Fashion,3
+287,Luxury,3
+287,Public Relations,3
+287,Marketing,2
+287,Retail,2
+287,Textiles,1
+287,New Business Development,3
+290,Virtualization,3
+290,Integration,3
+290,Java,3
+290,System Administration,3
+290,Technical Support,3
+290,Project Management,2
+290,Software Development,2
+290,Programming,1
+290,Software Documentation,1
+290,Testing,1
+290,Project Planning,0
+290,Agile Methodologies,0
+290,Perl,3
+290,Linux,2
+290,Unix,2
+290,Databases,0
+290,Python,0
+290,Citrix,0
+292,Agile Methodologies,8
+292,Management,6
+292,Business Analysis,4
+292,Analytics,2
+292,Data Warehousing,1
+292,Agile Project Management,1
+292,E-commerce,1
+292,Strategy,0
+292,Business Strategy,0
+292,Leadership,1
+292,Team Management,0
+292,Engineering and Product Management,0
+297,XML,17
+297,Software Development,15
+297,SQL,9
+297,Agile Methodologies,1
+297,Web Applications,1
+297,Customer Relationship Management (CRM),1
+297,Cloud Computing,0
+297,Web Development,0
+297,Consulting,0
+297,Software as a Service (SaaS),1
+297,Enterprise Software,0
+297,Java,0
+297,JavaScript,0
+299,Web Development,4
+299,WordPress,3
+299,PHP,1
+299,Mathematics,2
+299,Web Design,1
+299,JavaScript,3
+299,HTML,2
+299,jQuery,1
+299,CSS,1
+299,Adobe Creative Suite,0
+299,Balsamiq,0
+299,React.js,1
+299,AngularJS,1
+299,Redux,1
+299,Git,1
+299,Problem Solving,1
+299,Axure,0
+305,Software Development,19
+305,Agile Methodologies,13
+305,Analytics,11
+305,Business Intelligence,9
+305,Database Design,6
+305,SOA,5
+305,Scrum,4
+305,Product Development,4
+305,Mobile Applications,3
+305,Agile Project Management,2
+305,Tableau,9
+305,SaaS,7
+305,Enterprise Software,6
+305,Microsoft SQL Server,5
+305,Tablets,1
+306,Military,93
+306,Army,84
+306,Leadership,77
+306,Medicine,59
+306,Healthcare,39
+306,Military Operations,35
+306,Combat,28
+306,ACLS,25
+306,DoD,19
+306,BLS,17
+306,Program Management,17
+306,Family Medicine,14
+306,Emergency Medicine,12
+306,Cpr Certified,11
+306,Clinical Research,10
+306,Hospitals,9
+306,Healthcare Management,6
+306,Wellness,5
+306,Public Health,4
+306,Advanced Cardiac Life Support (ACLS),4
+306,PALS,3
+306,CPR Certified,3
+306,Yoga,2
+306,U.S. Department of Defense,2
+306,Cardiopulmonary Resuscitation (CPR),1
+306,HIPAA,0
+306,Nutrition,0
+306,Command,0
+306,EMR,3
+306,Training,42
+306,Leadership Development,17
+306,Organizational Leadership,15
+306,Public Speaking,14
+306,Mentoring,12
+306,Team Building,11
+306,Coaching,1
+306,Mentorship,1
+306,Urgent Care,19
+306,Military Medicine,6
+306,ATLS,6
+306,Peer Mentoring,0
+306,Military Experience,52
+306,Security Clearance,25
+307,Testing,38
+307,Web Services,34
+307,Test Automation,30
+307,Software Development,25
+307,Software Design,24
+307,Agile Project Management,15
+307,Scrum,14
+307,Software Engineering,14
+307,Object Oriented Design,3
+307,Agile Methodologies,3
+307,Project Management,3
+307,Program Management,3
+307,Software Project Management,1
+307,SharePoint,28
+307,C#,20
+307,XML,11
+307,SQL,7
+307,Java,7
+307,JavaScript,5
+307,Visual Studio,4
+307,ASP.NET,1
+307,Leadership,17
+307,Communication,2
+307,Management,1
+307,Collaboration,2
+307,Customer Oriented,2
+308,Databases,38
+308,SDLC,28
+308,Microsoft SQL Server,23
+308,Database Design,16
+308,Data Warehousing,13
+308,Agile Methodologies,13
+308,Software Development,12
+308,Software Project Management,12
+308,Business Intelligence,11
+308,Shell Scripting,3
+308,T-SQL,19
+308,SQL,18
+308,SSIS,8
+308,XML,7
+308,.NET,6
+308,SaaS,4
+308,Operating Systems,1
+308,Windows,1
+308,SQL Tuning,3
+309,JavaScript,10
+309,HTML,3
+309,CSS,2
+309,Agile Methodologies,2
+309,User Interface,2
+309,Computer Science,1
+309,User Experience,0
+309,Web Development,0
+309,Data Visualization,0
+309,Design Patterns,0
+309,jQuery,2
+309,Git,2
+309,Linux,2
+309,Backbone.js,1
+309,SQL,1
+309,Cascading Style Sheets (CSS),1
+310,Project Management,15
+310,MS Project,11
+310,Management,11
+310,Budgets,10
+310,Software Documentation,7
+310,Analysis,6
+310,Product Development,4
+310,Content Management,4
+310,Project Coordination,3
+310,Program Management,3
+310,Editing,3
+310,Publishing,3
+310,Project Planning,2
+310,Social Media,1
+310,Content Development,1
+310,Budgeting,0
+310,Budget Management,0
+310,Scheduling,0
+310,Microsoft Office,6
+310,Adobe Acrobat,5
+310,Process Scheduler,4
+310,Microsoft Excel,4
+310,Mac,4
+310,InDesign,3
+310,Adobe Creative Suite,3
+310,Microsoft Word,1
+310,PowerPoint,1
+310,Cross-functional Team Leadership,5
+310,Training,4
+310,Leadership,1
+310,Schedule Development,0
+310,Books,2
+312,Python,1
+312,Apache Spark,1
+312,SQL,1
+312,PostgreSQL,0
+312,Java,5
+312,HTML,5
+312,CSS,2
+312,JavaScript,0
+312,PHP,0
+312,Ruby,0
+312,Airflow,1
+314,Java,15
+314,JavaScript,13
+314,PHP,7
+314,Algorithms,7
+314,Software Development,5
+314,Python,5
+314,jQuery,3
+314,Perl,3
+314,SQL,3
+314,HTML,3
+314,C,2
+314,LaTeX,2
+314,C++,2
+314,Ruby on Rails,2
+314,Git,1
+314,Wordpress,0
+314,JUnit,0
+314,MATLAB,0
+314,Hadoop,0
+314,Android SDK,0
+314,Lisp,0
+314,Google App Engine,0
+314,HTML/XML,1
+315,PMP,32
+315,Program Management,29
+315,Vendor Management,29
+315,Project Management,18
+315,Integration,14
+315,Data Center,13
+315,Business Analysis,10
+315,Software Project Management,10
+315,Software Documentation,7
+315,Resource Management,6
+315,Process Improvement,6
+315,Pre-sales,4
+315,Software Development,3
+315,Change Management,2
+315,Agile Methodologies,2
+315,ITIL,2
+315,Cloud Computing,2
+315,Disaster Recovery,2
+315,Testing,2
+315,Business Process Improvement,1
+315,Scheduling,0
+315,SaaS,9
+315,Software as a Service (SaaS),3
+315,MS Project,0
+315,Management,3
+318,R,15
+318,Analytics,12
+318,Data Analysis,10
+318,Data Mining,17
+318,Business Intelligence,7
+318,Statistics,6
+318,Analysis,5
+318,Programming,4
+318,Research,2
+318,Data Collection,1
+318,SQL,23
+318,Databases,18
+318,Ruby,15
+318,MySQL,7
+318,Linux,3
+318,SQLite,0
+318,XML,0
+318,PostgreSQL,0
+318,Teaching,2
+318,Shiny,0
+318,Data Warehouse Architecture,1
+318,Preparation,0
+318,PostGIS,0
+318,Multidimensional modeling for analytical databases.,0
+319,Project Management,35
+319,Strategic Planning,12
+319,Program Management,14
+319,User Experience,28
+319,E-commerce,28
+319,Process Improvement,17
+319,SEO,16
+319,Information Architecture,15
+319,Email Marketing,9
+319,Web Project Management,9
+319,Web Development,7
+319,Agile Project Management,4
+319,Web Design,5
+319,Graphic Design,5
+319,Social Media,5
+319,Online Advertising,4
+319,Software Implementation,4
+319,Budgets,3
+319,User Interface Design,3
+319,Business Analysis,2
+319,Business Development,2
+319,Vendor Management,1
+319,Account Management,2
+319,Web Analytics,1
+319,Advertising,1
+319,Social Media Marketing,1
+319,Budget Management,1
+319,Marketing Communications,1
+319,Content Management,1
+319,CMS,2
+319,HTML,1
+319,Photoshop,2
+319,Team Leadership,7
+319,Management,25
+319,Coaching,7
+319,Problem Solving,8
+319,Training,7
+319,Relationship Building,2
+319,Inter-personal,2
+319,Diversity & Inclusion,0
+319,IT Project & Program Management,3
+319,Web Technologies,4
+319,Web Architecture,3
+319,Software Implementation Management,2
+319,Web Technologies Development,2
+319,Web Content Management,2
+321,Training,17
+321,Customer Service,12
+321,Outlook,10
+321,Research,4
+321,Blogging,2
+321,Data Analysis,1
+321,Microsoft Office,8
+321,PowerPoint,6
+321,Microsoft Excel,4
+321,WordPress,1
+321,Staff Development,8
+321,Teaching,3
+322,Game Design,16
+322,Video Games,11
+322,Mobile Games,11
+322,Programming,7
+322,Game Development,4
+322,Quality Assurance,3
+322,User Interface Design,2
+322,Mobile Devices,3
+322,iOS development,0
+322,Game Writing,0
+322,Art,0
+322,2D,0
+322,3D,0
+322,Modeling,0
+322,JavaScript,8
+322,Python,4
+322,HTML,6
+322,ActionScript,3
+322,SQL,4
+322,Ruby on Rails,3
+322,Objective-C,2
+322,Ruby,2
+322,jQuery,4
+322,CSS,4
+322,Flash,1
+322,Maya,1
+322,C++,2
+322,Java,0
+322,Photoshop,0
+322,Illustrator,0
+322,Git,0
+322,JIRA,0
+322,Problem Solving,0
+322,Tutoring,0
+322,Level Design,2
+322,Lua,2
+322,Puzzles,0
+322,Prototyping,0
+322,Gameplay Programming,0
+323,Curriculum Design,1
+323,iOS Development,3
+323,Teaching,9
+323,Research,13
+323,Biology,2
+323,Algorithms,3
+323,Genomics,0
+323,Bioinformatics,9
+323,Laboratory Skills,0
+323,Statistics,14
+323,Data Analysis,15
+323,Curriculum Development,1
+323,Science,10
+323,Ecology,2
+323,Git,2
+323,Objective-C,1
+323,Python,2
+323,R,1
+323,Public Speaking,2
+323,Phylogenetics,2
+323,Evolutionary Biology,1
+323,Experimental Design,1
+323,DNA Sequencing,0
+328,SAP Basis,1
+328,SAP Netweaver,2
+328,SAP Implementation,2
+328,Programming,1
+328,Software Engineering,6
+328,Mathematics,2
+328,Computer Science,1
+328,Data Analysis,1
+328,Databases,1
+328,Java,9
+328,JavaScript,5
+328,Eclipse,2
+328,CSS,1
+328,ActionScript,1
+328,HTML,1
+328,Microsoft Excel,1
+328,Microsoft Office,5
+328,Microsoft Word,1
+328,PowerPoint,1
+329,Psychology,10
+329,Psychotherapy,5
+329,Post Traumatic Stress,5
+329,Treatment,2
+329,Patient Education,2
+329,Adult Education,1
+329,Case Management,2
+329,Social Media,3
+329,Photography,3
+329,Web Design,3
+329,User Interface Design,3
+329,Marketing Strategy,3
+329,Fine Art,3
+329,Blogging,2
+329,Clinical Psychology,2
+329,Mental Health,3
+329,Counseling Psychology,4
+329,Photoshop,2
+329,Final Cut Pro,1
+329,Group Therapy,7
+329,Intercultural Communication,3
+329,Teamwork,3
+329,Community Outreach,2
+329,CBT,2
+329,Motivational Interviewing,2
+329,Mindfulness,4
+329,Hakomi,3
+329,Existential Therapy,3
+329,Somatic Psychology,3
+329,Psychodynamic Psychotherapy,4
+329,Art Therapy,5
+329,Play Therapy,2
+329,Dual Diagnosis,2
+330,Community Outreach,17
+330,Teaching,12
+330,Public Speaking,8
+330,Curriculum Development,8
+330,Grant Writing,5
+330,Curriculum Design,4
+330,Social Media,3
+330,Research,3
+330,Nonprofits,3
+330,Editing,3
+330,Non-profits,2
+330,Event Planning,1
+330,Higher Education,1
+330,Creative Writing,1
+330,Program Development,1
+330,Writing,1
+330,Program Evaluation,0
+330,Literacy,0
+330,Elementary Education,0
+330,Literature,0
+330,Microsoft Office,2
+330,Microsoft Word,0
+330,Microsoft PowerPoint,0
+330,Educational Technology,0
+330,Fundraising,4
+330,Tutoring,3
+330,Staff Development,3
+330,Volunteer Management,1
+330,Classroom,0
+330,Management,0
+330,Teaching Writing,0
+331,Library Instruction,6
+331,Digital Libraries,5
+331,Library Science,5
+331,Collection Development,4
+331,Library Management,3
+331,Library,3
+331,Information Literacy,3
+331,Archives,1
+331,Community Outreach,2
+331,Library 2.0,2
+331,Virtual Reference,2
+331,Libraries,6
+332,JavaScript,19
+332,jQuery,18
+332,MySQL,17
+332,Web Development,11
+332,PHP,12
+332,HTML,10
+332,Ruby,10
+332,AJAX,7
+332,Ruby on Rails,5
+332,JSON,3
+332,CSS,2
+332,XHTML,2
+332,XML,2
+332,Flash,2
+332,LAMP,1
+332,Apache,1
+332,Photoshop,1
+332,HTML5,1
+332,ActionScript,0
+332,Subversion,0
+332,Redis,1
+334,Student Affairs,5
+334,Training,3
+334,Leadership,3
+334,Program Management,3
+334,Data Entry,2
+334,Research,2
+334,Project Planning,2
+334,Higher Education,2
+334,Project Management,1
+334,Healthcare,1
+334,Budgets,1
+334,Program Development,1
+334,Nonprofits,1
+334,Administrative Assistance,1
+334,Editing,1
+334,Administrative Assistants,0
+334,Microsoft Office,3
+334,Process Scheduler,2
+334,Management,2
+334,Public Speaking,2
+334,Community Outreach,1
+334,Teaching,1
+334,Policy,4
+335,Negotiation,3
+335,Customer Service,2
+335,Real Estate,1
+335,Property Management,1
+335,Information Technology,0
+335,Technical Support,0
+335,Data Analysis,0
+335,Report Writing,0
+335,Marketing,0
+335,Bookkeeping,0
+335,Tax Preparation,0
+335,Data Management,0
+335,Educational Technology,0
+335,Microsoft Office,0
+335,Microsoft SQL Server,0
+335,Microsoft Exchange,0
+335,Cross-functional Team Leadership,0
+335,Supervisory Skills,0
+335,Higher Education Administration,0
+335,Department Budgeting,0
+335,Highly detail oriented,0
+335,Workflow,0
+340,Software Development,54
+340,Web Applications,28
+340,Java,27
+340,Agile Methodologies,26
+340,Testing,24
+340,Test Automation,21
+340,Cloud Computing,17
+340,Integration,11
+340,Software Engineering,8
+340,Test Driven Development,7
+340,Software Quality Assurance,6
+340,Start-ups,6
+340,Scrum,6
+340,Test Planning,5
+340,Continuous Integration,4
+340,Scalability,4
+340,Regression Testing,3
+340,Distributed Systems,3
+340,Quality Assurance,3
+340,Debugging,2
+340,Design Patterns,2
+340,Wireless,1
+340,System Administration,1
+340,Mobile Applications,1
+340,Python,9
+340,Unix,6
+340,SaaS,6
+340,Linux,6
+340,MySQL,6
+340,Git,6
+340,Selenium,4
+340,JavaScript,3
+340,Tomcat,3
+340,Subversion,3
+340,Perl,3
+340,REST,2
+340,Software as a Service (SaaS),2
+347,User Experience,12
+347,User Interface Design,10
+347,Interaction Design,8
+347,Web Design,6
+347,Usability Testing,4
+347,Human Computer Interaction,3
+347,User Experience Design,3
+347,Information Architecture,2
+347,User-centered Design,2
+347,Wireframes,1
+347,Usability,1
+347,Logo Design,1
+347,Web Development,1
+347,Content Management,0
+347,Adobe Creative Suite,6
+347,Photoshop,3
+347,OS X,2
+347,Illustrator,2
+347,Adobe Acrobat Pro,0
+347,Leadership,0
+347,User Research,2
+347,Heuristic Evaluation,1
+347,Axure RP Pro,0
+347,OmniGraffle Pro,0
+349,HTML,7
+349,Java,6
+349,Programming,5
+349,Research,3
+349,Software Development,2
+349,Web Development,1
+349,Microsoft Excel,4
+349,CSS,3
+349,Eclipse,3
+349,Python,1
+349,PHP,1
+350,Social Media Consulting,9
+350,Business Coaching,8
+350,Digital Media,7
+350,Social Media Marketing,11
+350,Social Media,15
+350,Facebook Marketing,11
+350,Digital Marketing,10
+350,Marketing Strategy,7
+350,Marketing,11
+350,Strategic Planning,9
+350,Online Marketing,8
+350,Entrepreneurship,13
+350,Nonprofits,11
+350,Non-profits,7
+350,Branding,7
+350,Event Planning,10
+350,Writing,7
+350,Research,8
+350,Wellness,6
+350,Facebook,6
+350,Instagram,7
+350,Coaching,7
+350,Community Outreach,8
+350,Leadership,6
+350,Personal Development,10
+350,Public Speaking,11
+350,Customer Service,11
+350,Management,9
+350,Life Coaching,7
+350,Social Media Coaching,7
+350,Social Networking,14
+350,Facebook Fan Page Strategies,7
+350,Twitter Marketing,9
+350,Personal Coaching,6
+351,Penetration Testing,18
+351,Vulnerability Assessment,15
+351,Information Security,15
+351,Security,11
+351,Computer Security,3
+351,Network Security,1
+351,Security Audits,1
+351,Application Security,14
+351,Code Review,4
+351,Web Application Security,3
+351,Vulnerability Management,3
+351,Security Research,2
+351,Security Architecture Design,1
+351,Reverse Engineering,1
+351,Cryptography,0
+354,Higher Education,10
+354,Admissions,8
+354,Nonprofits,2
+354,Programming,0
+354,CRM,0
+354,Reporting & Analysis,0
+354,Technical Training,0
+354,Technical Support,0
+354,Relational Databases,0
+354,Staff Supervision,0
+355,Software Development,7
+355,XML,2
+355,Java,1
+355,Testing,1
+355,Agile Methodologies,1
+355,Algorithms,1
+355,Databases,1
+355,Leadership,0
+356,Web Applications,4
+356,Ruby on Rails,2
+356,Ruby,1
+356,Web Development,13
+356,E-commerce,2
+356,Test Driven Development,0
+356,LAMP,1
+356,MySQL,2
+356,jQuery,1
+356,JavaScript,6
+356,SQL,3
+356,Linux,4
+356,Photoshop,1
+356,Perl,3
+356,HTML5,4
+356,CSS,5
+356,HTML,3
+356,RSpec,0
+358,Microsoft Excel,4
+358,Microsoft Office,4
+358,Windows,4
+358,PowerPoint,3
+358,Microsoft Word,1
+358,Leadership,2
+358,Public Speaking,1
+358,Teaching,1
+358,Customer Service,1
+358,Community Outreach,1
+358,English,1
+360,Fundraising,31
+360,Management,28
+360,Community Outreach,20
+360,Analysis,15
+360,Strategic Planning,12
+360,Research,10
+360,Project Planning,7
+360,Nonprofits,7
+360,Public Policy,6
+360,Budgets,5
+360,Investments,5
+360,Non-profits,4
+360,Strategic Financial Planning,2
+360,Distributed Systems,2
+360,Finance,2
+360,Enterprise Software,3
+360,Public Speaking,12
+360,Training,2
+360,Networking,6
+366,Classical,14
+366,Music Theory,13
+366,Music Education,12
+366,Chamber Music,11
+366,Music,5
+366,Orchestral Music,2
+366,Composition,2
+366,Java,6
+366,Eclipse,3
+366,AngularJS,1
+366,JavaScript,0
+366,Oracle SQL Developer,0
+366,Microsoft SQL Server,0
+366,JSP,0
+366,JSON,0
+366,Teaching,8
+369,Research,8
+369,Nonprofits,7
+369,Public Speaking,5
+369,Litigation,3
+369,Intellectual Property,2
+369,Legal Research,2
+369,Psychology,2
+369,Learning Disabilities,2
+369,Program Development,2
+369,Public Relations,2
+369,Editing,1
+369,Event Planning,1
+369,Art,1
+369,Special Education,1
+369,Mental Health,1
+369,Grant Writing,1
+369,Public Policy,1
+369,Microsoft Office,1
+369,Community Outreach,5
+369,Adolescents,2
+369,Fundraising,2
+369,Customer Service,1
+369,Career Counseling,1
+369,Contract Negotiation,1
+369,Mediation,1
+369,Policy,2
+372,Python,7
+372,HTML + CSS,2
+372,Django,2
+372,Database Design,3
+372,Digital Imaging,2
+372,Photography,3
+372,Film Editing,3
+372,Web Development,3
+372,Web Design,3
+372,Video Editing,3
+372,Software Development,4
+372,Javascript,2
+372,Photoshop,2
+372,Java,4
+372,PHP,4
+372,SQL,7
+372,Git,4
+372,Final Cut Pro,3
+372,CSS,5
+372,MySQL,5
+372,jQuery,3
+372,Linux,4
+372,HTML,6
+372,DVD Studio Pro,3
+372,Lua,3
+375,Research,13
+375,Java,9
+375,Eclipse,7
+375,Social Media,5
+375,Algorithms,4
+375,User Interface Design,3
+375,Programming,3
+375,Mathematics,3
+375,Computer Science,2
+375,Technology Integration,2
+375,HTML,7
+375,PowerPoint,5
+375,CSS,5
+375,Ruby on Rails,3
+375,Git,3
+375,Ruby,2
+375,Microsoft Office,2
+375,Windows,2
+375,C#,2
+375,Tortoise SVN,2
+375,OS X,1
+375,Microsoft PowerPoint,1
+375,Teaching,5
+375,Public Speaking,4
+375,Teamwork,3
+375,Tutoring,2
+375,Interviews,1
+375,Wikis,2
+375,Article Writing,2
+375,Salesforce.com Development,1
+375,Lync,1
+375,Nunit,1
+375,Public,2
+383,Dentistry,9
+383,Cosmetic Dentistry,7
+383,Invisalign,7
+383,Restorative Dentistry,6
+383,Aesthetics,6
+383,Teeth Whitening,5
+383,Veneers,4
+383,Orthodontics,4
+383,Prosthodontics,3
+383,Dentures,2
+384,Product Management,56
+384,User Experience,44
+384,SEO,17
+384,Program Management,17
+384,Agile Methodologies,13
+384,Product Launch,9
+384,Analytics,8
+384,Product Lifecycle Management,7
+384,Strategic Planning,6
+384,Product Development,6
+384,Start-ups,4
+384,E-commerce,4
+384,Mobile Applications,3
+384,Usability Testing,1
+384,User Interface Design,1
+384,Agile,0
+384,Retail,0
+384,Ecommerce,0
+384,Leadership,16
+384,Cross-functional Team Leadership,9
+384,APIs,1
+384,Product Requirement Definition,0
+384,API,0
+384,A/B Testing,0
+384,Omniture,0
+385,Data Warehousing,14
+385,Business Intelligence,13
+385,Business Objects,13
+385,Strategy,7
+385,Pre-sales,6
+385,Go-to-market Strategy,4
+385,Big Data,4
+385,Business Analytics,3
+385,Solution Selling,2
+385,Program Management,2
+385,Analytics,1
+385,Master Data Management,1
+385,Sales Enablement,1
+385,Enterprise Software,8
+385,Databases,2
+385,SAP,1
+385,Dashboard,1
+385,Business Intelligence Tools,1
+386,New Media,31
+386,Creative Direction,16
+386,Social Media,22
+386,Video Production,59
+386,Digital Marketing,1
+386,Digital Media,46
+386,Social Media Marketing,5
+386,Product Development,1
+386,Product Design,1
+386,Creative Writing,8
+386,Blogging,13
+386,Screenwriting,8
+386,Product Management,1
+386,User Interface Design,4
+386,Interaction Design,4
+386,Marketing,1
+386,Project Management,1
+386,Graphic Design,5
+386,Animation,8
+386,Art,6
+386,Marketing Strategy,0
+386,Photography,16
+386,Digital Photography,5
+386,Documentaries,20
+386,Cinematography,5
+386,Independent Film,3
+386,Film,34
+386,Film Production,23
+386,Digital Video,8
+386,Web Video,9
+386,Videography,13
+386,Video Editing,36
+386,Video,65
+386,Multimedia,60
+386,Writing,1
+386,Adobe Creative Suite,3
+386,Microsoft Excel,0
+386,Storytelling,20
+386,Immersive Media,1
+386,Virtual Reality,0
+386,Producing,7
+386,User Expereince Design,0
+386,Creative Content Production,1
+386,Creatve Strategist,1
+386,Interactive Media Specialist,3
+386,Prototyping,1
+386,Product Managemnt,1
+386,Frontend Development in iOS (iPhone/iPad apps),1
+390,Mobile Computing,0
+390,Distributed Systems,0
+390,Home Energy,0
+390,Computer Science,0
+390,Algorithms,0
+390,Software Engineering,0
+390,Programming,0
+390,Higher Education,0
+390,Research,0
+390,Python,0
+390,Java,0
+390,LaTeX,0
+390,Computer Science Education,0
+392,Healthcare,77
+392,Hospitals,51
+392,Leadership,40
+392,Strategic Planning,29
+392,Oncology,17
+392,Clinical Research,16
+392,Medicare,14
+392,Program Management,13
+392,Endocrinology,11
+392,Marketing,10
+392,Managed Care,9
+392,Urology,5
+392,Medicine,5
+392,Event Planning,5
+392,Diabetes,4
+392,Cardiology,4
+392,Nonprofits,4
+392,Sales,4
+392,Project Management,4
+392,Pharmaceutical Sales,3
+392,Program Development,3
+392,Orthopedics,2
+392,Strategy,2
+392,Marketing Strategy,2
+392,Business Development,2
+392,Nonprofit Organizations,2
+392,Healthcare Management,0
+392,Learning Management,0
+392,Event Management,0
+392,Meeting Planning,0
+392,Community Outreach,25
+392,Physicians,19
+392,Public Speaking,18
+392,Management,16
+392,Training,9
+392,Customer Service,6
+392,Fundraising,4
+392,Team Building,3
+392,Working with Physicians,2
+392,Leadership Development,0
+392,Classroom Instruction,0
+392,Team Leadership,0
+392,Client Liaison,0
+392,Collaborative Problem Solving,0
+392,Organization Skills,0
+392,Diversity Training,0
+392,Orthopedic,8
+394,Project Management,18
+394,Integration,13
+394,Salesforce.com,12
+394,Technical Support,2
+394,Start-ups,6
+394,Pre-sales,2
+394,Customer Relations,2
+394,Mobile Applications,1
+394,Onboarding,0
+394,Agile,0
+394,SDLC,0
+394,Project Coordination,0
+394,Enterprise Software,7
+394,SaaS,7
+394,HTML,2
+394,Joomla,0
+394,JIRA,0
+394,Management,9
+394,Customer Service,5
+394,Problem Solving,2
+394,Leadership,3
+394,Team Building,1
+394,Networking,9
+394,Product Demonstrations,1
+394,Cross-functional Communication,0
+394,New Business Development,0
+394,Software Sales,0
+395,HTML,49
+395,Public Speaking,37
+395,Python,1
+395,Research,23
+395,Web Development,10
+395,Software Development,8
+395,Computer Science,11
+395,JavaScript,29
+395,CSS,26
+395,SQL,22
+395,Ruby on Rails,22
+395,Android,9
+395,Ruby,16
+395,Pro Tools,6
+395,Git,14
+395,PHP,15
+395,JSON,14
+395,AJAX,15
+395,MongoDB,15
+395,Databases,7
+395,jQuery,6
+395,Windows Server,1
+395,Windows,8
+395,Cascading Style Sheets (CSS),5
+395,Microsoft Office,16
+395,Active Directory,1
+395,Leadership,33
+395,Teaching,21
+395,Community Outreach,18
+395,Emotional Intelligence,3
+395,Training,6
+395,Final Cut Express,5
+398,HTML,9
+398,CSS,9
+398,Bootstrap,9
+398,Software Development,4
+398,Node.js,1
+398,React.js,6
+398,Sequelize.js,0
+398,JavaScript,8
+398,Jquery,7
+398,PostgreSQL,1
+398,MySQL,8
+398,Ruby on Rails,7
+398,Git,8
+398,Github,8
+398,Java,8
+398,Linux,1
+398,SQL,4
+398,Ruby,1
+398,Microsoft Office,0
+398,HTML5,1
+398,Express.js,1
+398,Heroku,6
+398,Jasmine,1
+403,Change Management,25
+403,Organizational Development,61
+403,Leadership Development,35
+403,Program Management,54
+403,Consulting,24
+403,Performance Management,23
+403,Strategy,17
+403,E-Learning,15
+403,Project Management,15
+403,Strategic Planning,12
+403,Instructional Design,9
+403,Succession Planning,9
+403,Management Consulting,9
+403,Process Improvement,8
+403,Human Resources,6
+403,Start-ups,5
+403,Entrepreneurship,4
+403,Recruiting,3
+403,Onboarding,2
+403,Vendor Management,2
+403,Blended Learning,2
+403,Business Process Improvement,2
+403,Acquisition Integration,0
+403,Executive Coaching,4
+403,Training,53
+403,Leadership,51
+403,Management,40
+403,Coaching,24
+403,Cross-functional Team Leadership,24
+403,Organizational Effectiveness,18
+403,Talent Management,15
+403,Team Building,14
+403,Staff Development,10
+403,Employee Engagement,10
+403,Employee Training,6
+403,Team Leadership,4
+403,Personnel Management,3
+403,Training Delivery,2
+403,Employee Relations,2
+403,Mentoring,1
+403,Culture Change,0
+403,Organization Development,0
+403,Public Speaking,0
+403,Workshop Facilitation,5
+403,Talent Acquisition,3
+403,Measurement Methodology,0
+406,Leadership,1
+406,DevOps,5
+406,Reliability Engineering,0
+406,Agile Methodologies,36
+406,E-commerce,34
+406,SDLC,32
+406,Scrum,17
+406,Web Applications,11
+406,Cloud Computing,11
+406,Software Development Life Cycle (SDLC),10
+406,System Deployment,9
+406,Software Development,7
+406,Software Documentation,6
+406,Web Services,6
+406,Testing,6
+406,Troubleshooting,5
+406,Technical Recruiting,2
+406,Vendor Management,2
+406,Systems Engineering,1
+406,Infrastructure,1
+406,Solution Architecture,1
+406,Enterprise Architecture,1
+406,Integration,0
+406,Continuous Integration,0
+406,Architecture,0
+406,Scalability,0
+406,Java,44
+406,Tomcat,37
+406,JBoss Application Server,11
+406,Linux,6
+406,WebSphere,5
+406,Oracle,3
+406,Unix,3
+406,Ruby,2
+406,VMware,2
+406,SQL,1
+406,Servers,1
+406,JavaScript,1
+406,Jenkins,1
+406,Amazon Web Services (AWS),0
+406,Team Leadership,4
+406,Management,4
+406,Chef,3
+406,Software Configuration Management,2
+406,Networking,2
+406,Software Deployment,1
+406,Continuous Delivery,0
+406,Puppet,0
+406,Build and Release Engineering,0
+409,Unix,78
+409,Linux,66
+409,Solaris,65
+409,Disaster Recovery,33
+409,High Availability,25
+409,Software Development,22
+409,System Administration,17
+409,Troubleshooting,17
+409,Cloud Computing,15
+409,Security,13
+409,Infrastructure,12
+409,VPN,12
+409,Technical Support,11
+409,Information Security,8
+409,Virtualization,6
+409,Shell Scripting,6
+409,Data Center,6
+409,TCP/IP,4
+409,Network Administration,4
+409,Software Installation,4
+409,Network Security,3
+409,Web Applications,2
+409,DNS,2
+409,System Architecture,2
+409,Performance Tuning,2
+409,Red Hat Linux,43
+409,Servers,38
+409,Operating Systems,36
+409,Ubuntu,22
+409,Enterprise Software,21
+409,Oracle,21
+409,Open Source,18
+409,Hardware,14
+409,AIX,13
+409,Bash,13
+409,Perl,9
+409,Apache,5
+409,VMware,4
+409,MySQL,4
+409,SQL,4
+409,OS X,3
+409,CentOS,3
+409,Databases,3
+409,Mac OS X,2
+409,VMware ESX,2
+409,Debian,1
+409,Windows Server,1
+409,HP-UX,5
+409,Networking,1
+409,Unix Shell Scripting,2
+421,Human Computer Interaction,21
+421,User Research,16
+421,User Experience Design,8
+421,User Experience,25
+421,Information Architecture,16
+421,Interaction Design,15
+421,User Interface Design,13
+421,User-centered Design,12
+421,Mobile Applications,11
+421,Usability Testing,9
+421,User Interface,6
+421,Usability,6
+421,Web Development,5
+421,Algorithms,3
+421,Wireframes,3
+421,Mobile Devices,2
+421,Rapid Prototyping,2
+421,Agile Methodologies,2
+421,Front-end Development,0
+421,JavaScript,4
+421,jQuery,3
+421,CSS,3
+421,AngularJS,1
+421,WordPress,0
+421,Usability Engineering,16
+421,Contextual Inquiry,6
+421,User Scenarios,6
+421,Heuristic Evaluation,4
+421,Persona,3
+421,Paper Prototyping,3
+421,OmniGraffle,3
+421,Card Sorting,1
+421,Task Analysis,1
+421,Visual Design,1
+421,Ethnography,1
+421,Information Visualization,1
+421,Information Design,1
+421,Mockups,1
+421,Mobile Design,1
+421,Front-end Design,1
+421,Wire Framing,4
+421,Front-end,2
+423,User Experience,18
+423,CSS,12
+423,JavaScript,9
+423,Interaction Design,9
+423,User Interface Design,9
+423,Web Development,8
+423,Editing,5
+423,Human Computer Interaction,4
+423,Computer Science,3
+423,Web Applications,3
+423,Mobile Applications,1
+423,Creative Writing,1
+423,Web Design,1
+423,HTML 5,4
+423,HTML,3
+423,Perl,1
+423,HTML5,1
+423,Pilates,1
+424,Agile Methodologies,93
+424,Scrum,67
+424,Software Development,34
+424,Project Management,28
+424,E-commerce,25
+424,Product Management,22
+424,Mobile Applications,19
+424,User Experience,17
+424,Software Project Management,17
+424,Mobile Devices,10
+424,Start-ups,9
+424,Agile Project Management,9
+424,Cloud Computing,7
+424,Web Applications,7
+424,CRM,6
+424,Web Project Management,5
+424,SEO,5
+424,Management Consulting,4
+424,Information Architecture,4
+424,Information Management,4
+424,Entrepreneurship,4
+424,Business Analysis,4
+424,Quality Assurance,4
+424,Change Management,4
+424,SDLC,4
+424,Account Management,3
+424,Business Intelligence,3
+424,Content Management,3
+424,Software Documentation,2
+424,Social Media Marketing,1
+424,SaaS,11
+424,Enterprise Software,7
+424,SharePoint,4
+424,JIRA,4
+424,Ruby on Rails,3
+424,CSS,2
+424,MySQL,2
+424,PHP,2
+424,Ruby,2
+424,Java,2
+424,HTML,1
+424,Android,1
+424,WordPress,1
+424,Jira Administration,1
+424,Management,22
+424,Team Leadership,15
+424,Cross-functional Team Leadership,14
+424,Leadership,5
+424,Training,3
+424,Certified Scrum Master CSM,7
+425,Higher Education,8
+425,Educational Technology,8
+425,Curriculum Design,5
+425,Instructional Design,5
+425,E-Learning,4
+425,Curriculum Development,3
+425,Editing,2
+425,Nonprofits,1
+425,Research,1
+425,Social Media,1
+425,Public Speaking,2
+425,Teaching,2
+425,Community Outreach,1
+425,Leadership,1
+428,Web Design,46
+428,Graphic Design,33
+428,User Interface Design,27
+428,Logo Design,22
+428,User Experience,17
+428,Strategy,10
+428,Art Direction,7
+428,User Interface,7
+428,Marketing Communications,6
+428,Corporate Identity,6
+428,Newsletters,5
+428,Multimedia,5
+428,Brochures,4
+428,Information Architecture,3
+428,Publishing,3
+428,Video,3
+428,Interaction Design,2
+428,Branding & Identity,2
+428,Experience Design,2
+428,Brand Development,1
+428,User Experience Design,1
+428,Creative Strategy,1
+428,User-centered Design,1
+428,Graphics,1
+428,Adobe Creative Suite,5
+428,Leadership,5
+428,Visual Communication,1
+428,Information Design,6
+428,Collateral,1
+428,Creative Direction,9
+434,JavaScript,13
+434,CSS,20
+434,HTML,3
+434,Illustration,4
+434,Software Engineering,4
+434,Mobile Applications,3
+434,Web Applications,1
+434,Agile Methodologies,1
+434,Software Development,1
+434,Java,5
+434,Ruby on Rails,1
+434,Leadership,2
+435,Research,14
+435,Customer Service,5
+435,Data Analysis,7
+435,Editing,6
+435,Web Development,1
+435,Program Development,1
+435,Database Design,0
+435,Data Management,0
+435,Database Administration,0
+435,Machine Learning,1
+435,Automation,1
+435,Online Research,4
+435,Programming,2
+435,Analytical Skills,1
+435,Test Automation,2
+435,OS X,4
+435,WordPress,5
+435,HTML,4
+435,CSS,3
+435,Windows,1
+435,Java,3
+435,Git,2
+435,Python,3
+435,SQL,1
+435,PHP,0
+435,Eclipse,1
+435,Photoshop,1
+435,Xcode,0
+435,Selenium,1
+435,Interpersonal Skill,1
+435,Tutoring,1
+435,Problem Solving,0
+435,Teaching,2
+435,Public Speaking,2
+435,Work Independently with Minimal Supervision,1
+435,Oral & Written Communication Skills,1
+435,"Mastery of Microsoft Office programs (Word, Excel, PowerPoint)",0
+435,Filezilla,0
+435,Arch Linux,0
+435,Database Systems,0
+435,Managing Accounts,0
+435,Data Integrity,0
+435,Goldmine,0
+435,Managing Database,0
+435,Google App Engine,0
+435,Academic Libraries,2
+435,NICE,1
+441,Research,4
+441,Higher Education,3
+441,Community Outreach,1
+441,Editing,1
+441,Social Media,1
+441,Program Development,1
+441,Nonprofits,0
+441,Event Planning,0
+441,Public Speaking,1
+441,Teaching,0
+441,Leadership,0
+443,Java,4
+443,JavaScript,3
+443,XML,1
+443,Agile,0
+443,Unix,1
+443,HP Quality Center,0
+443,HP QuickTest Professional,0
+443,HP Unified Functional Testing,0
+443,soapUI,0
+443,SQL,0
+443,Windows,0
+443,Linux,0
+443,HP Load Runner,0
+443,Selenium Suite,0
+446,Computer Science,19
+446,Software Development,18
+446,C#,7
+446,Test Automation,1
+446,Software Engineering,8
+446,Programming,4
+446,Testing,5
+446,Research,5
+446,Editing,2
+446,Higher Education,0
+446,Java,13
+446,Git,1
+446,Visual Studio,3
+446,Spring Framework,0
+446,Eclipse,5
+446,C++,15
+446,SQL,3
+446,HTML,2
+446,XML,1
+446,LaTeX,5
+446,JIRA,0
+446,Teaching,3
+446,Public Speaking,2
+446,Customer Service,1
+446,Emotional Intelligence,1
+446,IntelliJ IDEA,0
+446,COSMOS,0
+446,Processing,0
+446,SugarCRM,0
+447,Java,1
+447,Ruby,0
+447,MongoDB,0
+447,Microsoft Office,0
+447,Eclipse,0
+447,MySQL,0
+452,Photoshop,9
+452,Microsoft Office,9
+452,Office Administration,7
+452,Invoicing,7
+452,Editing,4
+452,Programming,3
+452,Nonprofits,3
+452,Social Media,3
+452,Event Planning,3
+452,Research,3
+452,Purchasing,2
+452,Travel Arrangements,2
+452,Photography,2
+452,Program Development,2
+452,Data Management,1
+452,Technical Support,1
+452,Creative Writing,1
+452,Higher Education,1
+452,Nonprofit Organizations,1
+452,Object-Oriented Programming (OOP),0
+452,Object Oriented Design,0
+452,Network Architecture,0
+452,Mac,4
+452,java,4
+452,Python,3
+452,Adobe Creative Suite,2
+452,Final Cut Pro,2
+452,Java,2
+452,Outlook,1
+452,C++,0
+452,JavaScript,0
+452,Node.js,0
+452,Databases,0
+452,Linux,0
+452,Acting,4
+452,Public Speaking,4
+452,Training,2
+452,Management,1
+452,Home Theater,4
+452,Expense Reports,2
+452,Version Control,0
+452,General Awesomeness,6
+452,PC,1
+452,Staff Management,1
+452,Social Networking,1
+452,Reports,0
+453,Subversion,17
+453,Perl,15
+453,Continuous Integration,13
+453,Scalability,3
+453,Agile Methodologies,1
+453,Git,6
+453,Jenkins,5
+453,Ant,5
+453,Maven,3
+453,Open Source,2
+453,Linux,2
+453,Solaris,2
+453,ClearCase,1
+453,Java,1
+453,CVS,12
+453,Hudson,5
+453,Release Engineering,4
+453,Perforce,3
+453,GNU Make,1
+453,Bourne Shell,0
+454,Investments,7
+454,Trading,6
+454,Equities,5
+454,Portfolio Management,1
+454,Fixed Income,1
+454,Financial Markets,1
+454,Derivatives,0
+454,Equity Trading,0
+454,Hedge Funds,0
+454,Capital Markets,0
+454,Bloomberg,1
+454,Feng Shui,1
+455,Agile Methodologies,19
+455,Distributed Systems,13
+455,Cross-functional Team Leadership,2
+455,Software Development,9
+455,Software Engineering,5
+455,Scalability,3
+455,Design Patterns,2
+455,Unit Testing,2
+455,Cloud Computing,2
+455,Requirements Analysis,2
+455,Project Management,2
+455,Test Driven Development,1
+455,Testing,1
+455,Software Project Management,1
+455,Software Development Life Cycle (SDLC),1
+455,Machine Learning,0
+455,Image Processing,0
+455,Computer Vision,0
+455,Smart Grid,0
+455,Scrum,0
+455,Java Enterprise Edition,11
+455,Java,8
+455,JDBC,6
+455,Hibernate,5
+455,JSP,3
+455,Unix,2
+455,Linux,2
+455,Software as a Service (SaaS),2
+455,Struts,1
+455,SaaS,1
+455,Management,2
+455,Team Management,2
+455,Client/server,2
+455,Enterprise Integration,1
+455,LDAP,1
+455,Continuous Delivery,0
+455,Platform Development,0
+455,Scalable Architecture,0
+455,Scalability Testing,0
+455,Smart Cities,0
+455,Software Architecture,0
+455,Internet of Things,0
+457,Program Management,83
+457,Cross-functional Team Leadership,54
+457,Management,42
+457,Process Improvement,41
+457,Change Management,31
+457,Project Management,27
+457,Vendor Management,27
+457,Analysis,20
+457,Business Process Improvement,17
+457,Software Documentation,12
+457,Business Analysis,12
+457,CRM,9
+457,SDLC,8
+457,Integration,7
+457,Data Center,6
+457,Security,5
+457,Operations Management,4
+457,Supply Chain Management,4
+457,Business Process,4
+457,Requirements Analysis,4
+457,Business Intelligence,3
+457,IT Strategy,3
+457,Data Analysis,2
+457,Forecasting,2
+457,ERP,2
+457,Software Project Management,2
+457,Quality Assurance,2
+457,Process Engineering,2
+457,ITIL,2
+457,PMP,1
+457,System Administration,1
+457,Project Planning,1
+457,Mergers & Acquisitions,1
+457,Systems Analysis,1
+457,PMO,1
+457,IT Management,1
+457,Supply Chain,1
+457,Enterprise Software,8
+457,Visio,3
+457,MS Project,2
+457,SAP,2
+457,Databases,1
+457,SharePoint,1
+457,Oracle,1
+457,Leadership,13
+457,Team Building,5
+457,Training,4
+457,Team Leadership,2
+457,Negotiation,1
+457,Team Builiding,0
+459,PMP,27
+459,Agile Methodologies,16
+459,SDLC,14
+459,PMO,13
+459,Project Management,13
+459,Program Management,11
+459,Business Analysis,10
+459,ITIL,7
+459,Vendor Management,7
+459,Software Development,6
+459,Software Project Management,5
+459,Change Management,5
+459,Integration,5
+459,Project Portfolio Management,4
+459,Project Planning,2
+459,Agile Project Management,2
+459,Software Development Life Cycle (SDLC),2
+459,Process Improvement,1
+459,Project Execution,1
+459,Software Documentation,1
+459,Enterprise Architecture,1
+459,Project Management Office (PMO),1
+459,Product Life Cycle Management,0
+459,Release Management,0
+459,Project Delivery,0
+459,Resource Management,0
+459,Kanban,0
+459,Risk Management,0
+459,Scrum,0
+459,Enterprise Software,4
+459,SaaS,3
+459,MS Project,1
+459,Visio,0
+459,Cross-functional Team Leadership,4
+459,PMI,0
+460,Enterprise Software,20
+460,SaaS,11
+460,Instructional Design,11
+460,Software Development,10
+460,Cloud Computing,9
+460,Agile Methodologies,8
+460,Enterprise Architecture,6
+460,SOA,5
+460,Distributed Systems,5
+460,Software Engineering,4
+460,Curriculum Design,3
+460,Scrum,2
+460,Java,7
+460,Java Enterprise Edition,4
+460,XML,3
+460,Unix,3
+460,Curriculum Innovation,4
+463,Java,4
+463,Front-end Development,0
+463,Spring Framework,2
+463,Web Applications,3
+463,User Interface,0
+463,User Experience,1
+463,Continuous Integration,1
+463,Content Development,1
+463,SQL,3
+463,HTML,3
+463,JSP,0
+463,Spring MVC,0
+463,Bootstrap,0
+463,JDBC,0
+463,Oracle Database,0
+463,PL/SQL,0
+463,Spring Boot,0
+463,JSON,0
+463,Maven,1
+463,Eclipse,2
+463,Subversion,3
+463,Git,2
+463,Jenkins,0
+463,JavaScript,6
+463,Oracle,1
+463,CSS,5
+463,JIRA,1
+463,jQuery,2
+463,Databases,1
+463,JavaServer Pages (JSP),1
+463,Spring Webflow,0
+463,STS,0
+463,ORM Tools,0
+464,Microsoft Office,3
+464,Strategic Planning,3
+464,Teaching,3
+464,Research,2
+464,Change Management,2
+464,Business Strategy,2
+464,Project Management,2
+464,Marketing Strategy,1
+464,Nonprofits,1
+464,Sales Management,1
+464,Business Development,1
+464,Management Consulting,1
+464,Microsoft Excel,2
+464,HTML,1
+464,PowerPoint,1
+464,Windows,1
+464,Outlook,1
+464,Microsoft Word,1
+464,Educational Leadership,3
+464,Negotiation,2
+464,Management,2
+464,Customer Service,2
+464,Public Speaking,2
+464,English,1
+464,New Business Development,4
+465,User Experience,56
+465,Product Management,35
+465,Mobile Devices,27
+465,Mobile Applications,26
+465,Information Architecture,18
+465,Web Analytics,9
+465,Web Applications,9
+465,SEO,7
+465,Email Marketing,6
+465,Agile Project Management,6
+465,Mobile Marketing,6
+465,Web Services,3
+465,PPC,3
+465,Digital Media,3
+465,Enterprise Software,7
+465,SaaS,6
+465,JavaScript,4
+465,Product Strategy,5
+469,Editing,14
+469,Entrepreneurship,10
+469,Start-ups,5
+469,Customer Service,3
+471,Compensation & Benefits,2
+471,Internal Resourcing,1
+471,Deferred Compensation,1
+471,Spreadsheets,0
+471,HRIS,1
+471,Compensation,0
+471,compensation surveys,0
+471,Radford,0
+473,Software Development,12
+473,JavaScript,11
+473,Java,10
+473,Requirements Analysis,10
+473,Technical Writing,5
+473,E-Learning,4
+473,Software Engineering,3
+473,Agile Methodologies,2
+473,Scrum,1
+473,E-learning,0
+473,AJAX,5
+473,XML,5
+473,Unix,5
+473,JSP,4
+473,HTML,3
+473,CSS,3
+473,C++,3
+473,XSLT,2
+473,Subversion,2
+473,Ant,2
+473,Microsoft SQL Server,2
+473,Tomcat,1
+473,JBoss Application Server,1
+473,XSL,3
+473,AICC,1
+473,SCORM,1
+477,Databases,47
+477,Agile Methodologies,28
+477,Oracle,27
+477,Cloud Computing,19
+477,Software Development,18
+477,Software Engineering,14
+477,Distributed Systems,12
+477,Scalability,10
+477,Database Design,9
+477,Performance Tuning,6
+477,Web Services,4
+477,ETL,3
+477,SOA,2
+477,Scrum,2
+477,Service-Oriented Architecture (SOA),1
+477,"Extract, Transform, Load (ETL)",1
+477,High Availability,0
+477,Java,10
+477,SaaS,9
+477,Operating Systems,6
+477,Enterprise Software,5
+477,Unix,5
+477,Perl,5
+477,Java Enterprise Edition,3
+477,Software as a Service (SaaS),2
+478,Analysis,13
+478,Data Analysis,9
+478,Project Management,8
+478,Forecasting,7
+478,Financial Analysis,4
+478,Financial Modeling,4
+478,Marketing Strategy,4
+478,Budgets,3
+478,Business Intelligence,2
+478,Strategic Planning,2
+478,Six Sigma,1
+478,Vendor Management,1
+478,Finance,1
+478,Salesforce.com,3
+478,Management,8
+478,Leadership,6
+478,Training,1
+480,Perl,6
+480,Python,5
+480,Java,4
+480,Unix,3
+480,MySQL,2
+480,Oracle,2
+480,PL/SQL,2
+480,Android,2
+480,Linux,2
+480,C#,1
+480,PHP,1
+480,T-SQL,1
+480,C,1
+480,SQL Server,0
+480,Windows,0
+481,Content Management,8
+481,Digital Media,8
+481,Publishing,7
+481,Online Publishing,7
+481,Art,5
+481,Publications,4
+481,Project Management,4
+481,Ebooks,4
+481,Copywriting,3
+481,Content Development,3
+481,Digital Photography,2
+481,Photography,2
+481,Fine Art,0
+481,Fine Art Photography,0
+481,Project Coordination,0
+481,Translation,0
+481,3D Printing,0
+481,Digital Printing,0
+481,Marketing Communications,0
+481,Graphics,0
+481,Graphic Design,0
+481,Adobe Creative Suite,6
+481,Adobe Acrobat,4
+481,HTML,1
+481,CSS,1
+481,Java,1
+481,JavaScript,1
+481,QuarkXPress,0
+481,Publishing Technology,2
+481,Film Photography,0
+481,Ceramic,0
+481,Mobi,0
+481,ePub,0
+481,Nook,0
+481,Amazon Kindle,0
+481,Self Publishing,0
+481,Rights Management,0
+481,Book Sales,0
+481,Photographic Printing,0
+481,Color Printing,0
+481,Book Packaging,0
+481,Foreign Rights,0
+481,Digital Archiving,0
+481,Chicago Manual,0
+481,Self-publishing,0
+481,Editorial,2
+481,Book Arts & Book Design,1
+481,Prepress & Print Production,1
+481,Graphic & Interactive Design,0
+481,Books,0
+490,Sales,13
+490,Java,12
+490,Event Planning,10
+490,Social Media,6
+490,Troubleshooting,3
+490,Research,1
+490,Higher Education,1
+490,Nonprofit Organizations,1
+490,Technical Support,0
+490,Data Entry,0
+490,Web Development,0
+490,Event Management,0
+490,Strategy,0
+490,Nonprofits,0
+490,PowerPoint,7
+490,CSS,7
+490,Microsoft Excel,7
+490,Microsoft Office,6
+490,Windows,5
+490,SQL,3
+490,Microsoft Word,3
+490,PHP,1
+490,Outlook,1
+490,Excel,0
+490,Word,0
+490,Visual Basic,0
+490,JavaScript,0
+490,OS X,0
+490,Customer Service,9
+490,Community Outreach,2
+490,Public Speaking,2
+490,Leadership,2
+490,Emotional Intelligence,1
+490,Communication,0
+490,Time Management,0
+490,Problem Solving,0
+490,English,0
+490,Scheme,0
+490,Haskell,0
+490,HTML/XML,1
+493,Higher Education,1
+493,Research,1
+494,Electronic Art,0
+494,Arts Administration,0
+494,Communication,0
+494,Contemporary Art,0
+494,Performing Arts,0
+494,Composition,3
+494,Audio Recording,3
+494,Sound Design,2
+494,Research,3
+494,Photography,0
+494,Nonprofit Organizations,0
+494,Object-Oriented Programming (OOP),0
+494,Algorithms,2
+494,Software Development,0
+494,Data Structures,0
+494,Video Editing,0
+494,Academic Writing,0
+494,Audio production,0
+494,Database Design,0
+494,Java,5
+494,Git,0
+494,Ruby on Rails,1
+494,Teaching,0
+494,French,2
+494,Synthesizers,2
+494,Music Performance,5
+494,Electronic Music,3
+494,Electronic Circuit Design,0
+494,SuperCollider,0
+494,Max,0
+494,Max for Live,0
+494,Ableton Live,0
+494,Video Art,0
+494,Contemporary Music,0
+494,Ethnomusicology,0
+494,Audio Visual Support,0
+494,Media Technology,0
+494,Digital Archiving,0
+494,FileMaker,0
+498,Java,10
+498,Computer Science,7
+498,Data Structures,4
+498,JavaScript,1
+498,HTML,3
+498,Ruby on Rails,1
+498,MySQL,1
+498,Ruby,1
+498,Git,1
+498,CSS,2
+498,Cascading Style Sheets (CSS),1
+498,Teaching,1
+498,Public Speaking,1
+498,Tutoring,2
+498,Scheme,0
+498,Haskell,1
+498,Go,1
+503,Entrepreneurship,60
+503,Strategy,55
+503,Marketing,43
+503,Program Management,36
+503,Project Management,28
+503,Marketing Communications,24
+503,Integrated Marketing,18
+503,Strategic Planning,14
+503,Consulting,14
+503,Marketing Strategy,13
+503,User Experience,8
+503,Sales Operations,3
+503,Content Management,3
+503,Neuro-Linguistic Programming (NLP),0
+503,Enterprise Software,12
+503,SaaS,3
+503,Leadership,39
+503,Cross-functional Team Leadership,27
+503,Management,20
+503,Lead Generation,19
+503,Team Leadership,5
+503,Field Communications,2
+503,Web Content Management,12
+503,Systemic Constellations,0
+506,JavaScript,17
+506,Java,15
+506,AJAX,11
+506,Web Applications,7
+506,Agile Methodologies,2
+506,Process Improvement,1
+506,Programming,1
+506,Testing,1
+506,Usability,1
+506,TCP/IP,1
+506,Quality Assurance,1
+506,User Experience,1
+506,MySQL,9
+506,CSS,4
+506,HTML,2
+506,SQL,2
+506,Eclipse,1
+506,Tomcat,1
+506,Unix,1
+506,Linux,1
+506,Ant,1
+506,Servlets,1
+506,Subversion,1
+506,XHTML,1
+506,JSP,1
+506,OS X,1
+506,MVC,1
+510,Microsoft Office,6
+510,Project Management,5
+510,Java,5
+510,Research,4
+510,Data Analysis,2
+510,PowerPoint,4
+510,Microsoft Excel,4
+510,Microsoft Word,2
+510,Public Speaking,2
+511,Banking,21
+515,Perl,9
+515,Unix,5
+515,JavaScript,4
+515,Testing,2
+515,Security,2
+515,Quality Assurance,2
+515,Business Intelligence,1
+515,Project Management,1
+515,Project Planning,1
+515,Enterprise Software,3
+515,Solaris,2
+515,Java,2
+515,HTML,2
+515,Windows,1
+515,Management,1
+515,Leadership,0
+517,Java,40
+517,JavaScript,42
+517,Programming,32
+517,Computer Science,24
+517,Algorithms,13
+517,Web Development,15
+517,Java Enterprise Edition,7
+517,Git,7
+517,HTML,7
+517,CSS,22
+517,React.js,0
+517,Backbone.js,1
+517,SASS,0
+517,Ruby on Rails,4
+517,jQuery,1
+517,AngularJS,0
+517,PHP,7
+517,Cascading Style Sheets (CSS),3
+517,Teaching,10
+517,Leadership,5
+521,Microsoft Excel,5
+521,Customer Service,3
+521,Microsoft Word,3
+521,Data Entry,3
+521,Research,2
+521,Food Safety,1
+521,Food,1
+521,Cooking,1
+521,Inventory Control,1
+521,Cashiering,1
+521,Sales,1
+521,Food Industry,0
+521,Food Preparation,0
+521,Food Quality,0
+521,Food & Beverage,0
+521,Inventory Management,0
+521,UV/Vis Spectroscopy,0
+521,Mass Spectrometry,0
+521,High-Performance Liquid Chromatography (HPLC),0
+521,PowerPoint,3
+521,Microsoft Office,2
+521,Microsoft PowerPoint,1
+521,C++,0
+521,Linux,0
+521,C,0
+521,Python,0
+521,Time Management,3
+521,Teamwork,2
+521,Management,1
+521,Critical Thinking,1
+521,Public Speaking,1
+521,Powder X-ray Diffraction,0
+521,X-ray crystallography,0
+521,NMR Spectroscopy,0
+521,Computational Chemistry,0
+521,Food Service,1
+521,Restaurants,0
+531,Eclipse,0
+531,Java,0
+531,JavaScript,0
+531,Research,1
+531,Social Media,1
+531,Event Planning,1
+531,HTML,0
+531,CSS,0
+531,Microsoft Office,1
+531,PowerPoint,1
+531,Microsoft Word,1
+531,Photoshop,1
+531,Microsoft Excel,0
+531,Windows,1
+531,Facebook,0
+531,Teamwork,1
+531,English,1
+532,Public Speaking,22
+532,Java,9
+532,Python,1
+532,Social Media,9
+532,Project Management,6
+532,Project Planning,7
+532,marketing,4
+532,Research,9
+532,Editing,6
+532,Nonprofits,2
+532,Event Planning,11
+532,Office Administration,0
+532,Budget Management,0
+532,Eclipse,7
+532,Adobe Creative Suite,5
+532,Microsoft Office,12
+532,Bootstrap,2
+532,Communication,7
+532,Management,7
+532,Student Development,4
+532,Team Building,5
+532,Customer Service,9
+532,Community Outreach,11
+532,Leadership,4
+532,Fundraising,1
+532,Canopy,3
+532,Flask,2
+532,Residence Life,3
+532,First Responder,1
+532,Front-end Design,1
+532,Conference Organization,0
+535,Community Outreach,20
+535,Research,20
+535,Public Speaking,17
+535,Editing,15
+535,Higher Education,7
+535,Nonprofits,6
+535,Data Analysis,5
+535,Social Media,4
+535,Student Affairs,3
+535,Event Planning,2
+535,Statistics,1
+535,Nonprofit Organizations,1
+535,Spreadsheets,0
+535,Data Modeling,0
+535,Business Intelligence,0
+535,Big Data,0
+535,Content Marketing,0
+535,Microsoft Office,8
+535,PowerPoint,7
+535,Microsoft Excel,7
+535,Microsoft PowerPoint,2
+535,Relational Databases,0
+535,Assembly Language,0
+535,Cascading Style Sheets (CSS),0
+535,SQL,0
+535,Databases,0
+535,Google Apps,0
+535,PostgreSQL,0
+535,Qualitative Research,5
+535,Fundraising,4
+535,Spanish,11
+535,Probability,0
+535,Graph theory,0
+535,Computer Architecture,0
+535,Enterprise Marketing,0
+535,Database Development,0
+535,B2C Marketing,0
+535,Brand Design,0
+535,Recurrence relations,0
+535,Recursion,0
+535,Finite State Automata,0
+535,Object-oriented programming in Java,0
+535,Web development in JSON,0
+535,Web Development in HTML and JavaScript,0
+535,Static and dynamic data structures,0
+535,Boolean algebra,0
+535,Microprogramming computers,0
+535,mathematical induction,0
+535,Caches and data paths,0
+536,Ruby on Rails,6
+536,MySQL,6
+536,Java,12
+536,Shell Scripting,1
+536,Object Oriented Design,3
+536,Test Driven Development,0
+536,Project Management,0
+536,Statistics,4
+536,PCR,0
+536,Jenkins,0
+536,Github,5
+536,Git,1
+536,Linux,4
+536,Bash,0
+536,Databases,3
+536,JIRA,0
+536,Unix,0
+536,Python,9
+536,Subversion,1
+536,SQL,2
+536,Ruby,2
+536,C++,7
+536,CSS,2
+536,Eclipse IDE,0
+536,Swift Programming Language,0
+536,Amazon Web Services (AWS),0
+536,Spock Testing Framework,1
+536,Gradle,0
+536,Artifactory,0
+536,Groovy,0
+536,Puppet,0
+536,JVM,0
+536,Heroku,2
+536,Agile Web Development,2
+536,Cygwin,1
+536,Microsoft Visual Studio C++,1
+536,mySQL WorkBench,0
+536,WinSCP,1
+536,R Project for Statistical Computing,0
+536,Cell and Bacteria Culture,0
+536,Genomic DNA Isolation,1
+536,Phase Contract Microscopy,0
+536,Automated Software Testing,0
+537,Java,0
+537,Public Speaking,0
+537,Research,0
+537,Critical Thinking,0
+537,Facilitation,0
+551,Program Management,2
+551,"Diversity, Equity & Inclusion",2
+551,Public Speaking,2
+551,Strategic Planning,0
+551,Programming,6
+551,Network Security,0
+551,Child Development,4
+551,Early Childhood Education,4
+551,Research,6
+551,Grant Writing,0
+551,Nonprofit Organizations,2
+551,Project Management,2
+551,K-12 Education,1
+551,Event Management,1
+551,Event Planning,2
+551,Project Planning,1
+551,Project Implementation,1
+551,Java,9
+551,HTML,4
+551,Teaching,10
+551,Qualitative Research,0
+551,Leadership,2
+551,Communication,2
+551,Community Development,2
+551,Community Outreach,1
+551,Management,2
+551,Volunteer Management,1
+551,Community Leadership,1
+551,CSS Javascript,1
+551,L&D Strategy,1
+551,Remote,2
+552,Java,5
+552,PHP,1
+552,HTML5,2
+552,Unit Testing,0
+552,CSS,2
+552,MySQL,1
+552,Git,1
+552,JavaScript,0
+552,Python (Programming Language),0
+552,SQL,0
+552,AngularJS,0
+552,React.js,0
+552,MongoDB,0
+552,Redux,0
+552,Full-Stack Development,0
+553,Java,12
+553,MySQL,6
+553,Python,6
+553,User Interface,6
+553,Data Visualization,5
+553,User Experience,6
+553,Android Development,0
+553,Illustrator,4
+553,InDesign,2
+553,Eclipse,6
+553,AngularJS,1
+553,Node.js,0
+553,HTML5,1
+553,Bootstrap,1
+553,Github,5
+553,C#,3
+553,.NET Framework,3
+553,Kotlin,0
+553,Gradle,1
+553,Rx,0
+554,Java,7
+554,JavaScript,2
+554,HTML5,4
+554,CSS,3
+554,Mac,2
+554,Microsoft Excel,5
+554,Microsoft Office,4
+554,Windows Vista,0
+554,Ruby on Rails,2
+554,HTML,2
+554,Leadership,1
+554,Windows 2000,0
+555,Software Development,1
+555,Leadership,16
+555,Product Management,0
+555,Graphic Design,1
+555,Agile Project Management,1
+555,Project Management,2
+555,Academic Advising,10
+555,Event Planning,9
+555,Research,9
+555,Higher Education,7
+555,Program Development,3
+555,Program Evaluation,1
+555,Statistics,0
+555,Volunteering,0
+555,Java,2
+555,JavaScript,1
+555,Cascading Style Sheets (CSS),0
+555,HTML,1
+555,PowerPoint,8
+555,Microsoft Word,1
+555,Microsoft Office,3
+555,Microsoft Excel,2
+555,Microsoft PowerPoint,1
+555,Public Speaking,11
+555,Mentoring,0
+555,Customer Service,7
+555,Community Outreach,5
+555,Student Development,4
+555,Qualitative Research,1
+555,University Teaching,1
+555,Software Engineering Practices,0
+558,Go,2
+558,Java,5
+558,Ruby,2
+558,Ruby on Rails,2
+558,CSS,2
+558,HTML,3
+558,JavaScript,1
+558,Git,1
+558,Github,1
+558,Teaching,1
+558,Phaser,0
+558,Regular Expressions,1
+559,Java,4
+559,Ruby on Rails,3
+559,Public Speaking,2
+559,Research,1
+559,Editing,0
+559,Social Media,0
+559,git,2
+559,Github,2
+559,Microsoft Office,1
+559,HTML,1
+559,Git,1
+559,Microsoft Excel,0
+559,PowerPoint,0
+559,C++,0
+559,CSS,0
+559,Linux,0
+559,Final Cut Pro,0
+559,Teaching,1
+559,Chinese,0
+559,Runtime Analysis,1
+559,Heroku,1
+559,MIPS Assembly,0
+559,HAML,0
+559,Scheme,0
+559,Haskell,0
+559,Go,0
+559,BASIC,0
+559,Pivotal Tracker,0
+559,Emacs,0
+559,Lisp,0
+559,Abstract Algebra,0
+559,Multivariable Calculus,0
+560,Python,3
+560,Product Development,4
+560,Flask,1
+560,Web Development,0
+560,User Interface Design,0
+560,Purchasing,30
+560,Logistics,23
+560,Food,12
+560,Strategic Planning,13
+560,Inventory Management,11
+560,Procurement,5
+560,Food Industry,5
+560,Agriculture,4
+560,Forecasting,4
+560,Budgets,4
+560,Sustainability,4
+560,Supply Chain,3
+560,Inventory Control,2
+560,Logistics Management,1
+560,Software Development,0
+560,User Experience,0
+560,Usability Testing,0
+560,Programming,0
+560,Wireframing,0
+560,CSS,2
+560,HTML5,0
+560,Java,4
+560,Ruby on Rails,1
+560,Github,1
+560,JavaScript,2
+560,Cascading Style Sheets (CSS),0
+560,HTML,3
+560,jQuery,0
+560,Ruby,0
+560,Bootstrap,0
+560,PostgreSQL,0
+560,Bash,0
+560,Front-end Design,0
+560,UX,1
+560,HAML,1
+560,Fresh Produce,2
+560,Organic Farming,2
+560,SQLAlchemy,0
+560,Product De,0
+561,Python,0
+561,C,0
+561,C++,0
+561,Web Development,0
+561,Java,0
+561,Sage,0
+561,SQL,0
+561,EViews,0
+561,HTML,0
+561,SASS,0
+561,CSS,0
+561,JavaScript,0
+561,x86 Assembly,0
+562,English,31
+562,Java,23
+562,HTML,16
+562,Strategic Planning,8
+562,Social Media,4
+562,Project Management,3
+562,Software Development,5
+562,Research,2
+562,Mathematics,1
+562,Algorithms,3
+562,Machine Learning,3
+562,SQL,16
+562,UML,5
+562,Windows,7
+562,Microsoft Excel,11
+562,Microsoft Office,21
+562,MS Project,5
+562,Git,5
+562,CSS,5
+562,Ruby on Rails,2
+562,JavaScript,4
+562,Python,3
+562,Team Leadership,7
+562,Teaching,4
+562,Tutoring,2
+562,Portuguese,7
+562,Spanish,6
+562,Haskell,1
+562,Mean Stack,2
+563,SQL,1
+563,Market Research,3
+563,Data Analysis,4
+563,Social Media,14
+563,Social Media Marketing,11
+563,Blogging,4
+563,Marketing,4
+563,Event Planning,2
+563,Data Entry,3
+563,Event Management,2
+563,Java,1
+563,JavaScript,1
+563,HTML,0
+563,Microsoft Office,12
+563,Microsoft Excel,12
+563,PowerPoint,12
+563,Facebook,9
+563,Microsoft Word,6
+563,OS X,2
+563,Access,2
+563,JIRA,0
+563,Tableau,0
+563,Time Management,2
+563,Fundraising,2
+563,Leadership,3
+563,Customer Service,2
+563,Mandarin,2
+563,Social Networking,5
+563,Cantonese,4
+563,Confluence,0
+563,Periscope,0
+564,Python,0
+564,Processing Javascript,0
+564,Ruby on Rails,0
+564,Research,3
+564,HTML,4
+564,CSS,1
+564,C#,0
+565,Apache Spark,1
+565,Java,1
+565,Python,1
+565,Big Data,1
+565,Machine Learning,0
+565,SQL,1
+565,LaTeX,0
+565,Verilog,0
+565,Tutoring,1
+565,Teaching,2
+565,shell,1
+565,Salesforce.com Development,0
+565,MIPS Assembly,0
+565,Apex Programming,0
+565,Visual Force,0
+566,HTML,7
+566,Java,6
+566,Programming,5
+566,Research,3
+566,Software Development,2
+566,Web Development,1
+566,Microsoft Excel,4
+566,CSS,3
+566,Eclipse,3
+566,Python,1
+566,PHP,1
+567,Microsoft Office,1
+567,Management,1
+567,Microsoft Excel,1
+567,Research,1
+567,Microsoft Word,1
+567,Microsoft PowerPoint,1
+567,Java,1
+567,Swift,1
+567,JavaScript,1
+567,HTML,1
+567,CSS,1
+567,Adobe Photoshop,1
+567,Adobe Illustrator,1
+567,Python,1
+567,C#,1
+567,Leadership,1
+567,Teaching,1
+567,Adobe Bridge,1
+567,WEKA,1
+568,Java,22
+568,Ruby on Rails,11
+568,Python,10
+568,Software Engineering,7
+568,Editing,6
+568,Programming,9
+568,Computer Science,2
+568,Writing,2
+568,Proofreading,0
+568,Creative Writing,2
+568,Copy Editing,0
+568,Data Visualization,2
+568,Education,1
+568,Piano,1
+568,Event Planning,3
+568,HTML,13
+568,JavaScript,9
+568,Ruby,6
+568,CSS,4
+568,Tutoring,11
+568,Web Scraping,0
+569,Post Production,30
+569,Final Cut Pro,30
+569,Video Production,56
+569,Video,27
+569,Digital Media,8
+569,Advertising,2
+569,Television,20
+569,Video Editing,16
+569,Reality,9
+569,Film,6
+569,Broadcast,9
+569,Sound,7
+569,Camera Operating,6
+569,Editing,10
+569,Television Production,4
+569,Media Production,5
+569,Videography,5
+569,HD Video,4
+569,Documentaries,4
+569,Camera Operation,3
+569,Web Video,2
+569,TV Production,1
+569,Reality TV,1
+569,Production Management,1
+569,Film Production,2
+569,Social Media,3
+569,Writing,0
+569,Entertainment,0
+569,Java,1
+569,Python,0
+569,Maya,1
+569,Premiere,7
+569,Avid Media Composer,3
+569,Avid,7
+569,Camera,4
+569,Pro Tools,2
+569,Final Cut Studio,3
+569,Photoshop,0
+569,Keyshot,0
+569,Producing,3
+569,DVD Studio Pro,2
+569,Pre-production,1
+569,Production Coordination,1
+569,Pre-production Planning,1
+573,JavaScript,3
+573,Java,2
+573,React.js,1
+573,Writing,2
+573,Research,3
+573,Agile Methodologies,1
+573,Curriculum Design,0
+573,Editing,0
+573,Academic Writing,0
+573,Creative Writing,1
+573,Software Development,0
+573,Web Development,0
+573,Continuous Integration,0
+573,Test Driven Development,0
+573,Node.js,0
+573,Ruby on Rails,2
+573,HTML,2
+573,CSS,2
+573,Python,1
+573,PHP,1
+573,Git,1
+573,Linux,0
+573,SQL,0
+573,Scala,1
+573,Ruby,0
+573,jQuery,0
+573,AngularJS,0
+573,MongoDB,0
+573,Jenkins,0
+573,Webpack,0
+573,Sass,0
+573,Teaching,0
+573,Tutoring,0
+573,Mentoring,0
+573,Public Speaking,0
+573,Haskell,1
+573,Heroku,1
+573,Handlebars.js,0
+573,KnockoutJS,0
+573,Express.js,0
+573,API Development,0
+573,Microservices,0
+573,Web Architecture,0
+573,Babel.js,0
+573,Version Management,0
+573,New Relic,0
+573,Software Design Patterns,0
+576,Java,4
+576,Android Studio,0
+576,Android Development,1
+576,User Interface Design,0
+576,Research,1
+576,Programming,0
+576,Front-end Development,0
+576,Computer Science,0
+576,Eclipse,4
+576,Microsoft Office,2
+576,HTML,1
+576,CSS,1
+576,Microsoft Excel,1
+576,Python,1
+576,PowerPoint,0
+576,MySQL,0
+576,JavaScript,1
+576,Microsoft Word,0
+576,Github,0
+576,Leadership,3
+576,Cloud Sage,0
+576,Haskell,0
+576,Scheme,0
+577,Java,7
+577,Computer Science,7
+577,Programming,6
+577,Eclipse,3
+577,HTML,2
+581,Java,0
+581,kotlin,0
+581,Android SDK,0
+581,Object-Oriented Programming (OOP),0
+581,Android Development,0
+581,User Experience Design,0
+581,Web Development,0
+581,iOS Development,0
+581,Agile Methodologies,0
+581,Mobile Applications,0
+581,Python,0
+581,Git,0
+581,AngularJS,0
+581,Xcode,0
+581,Swift,0
+581,Node.js,0
+581,OpenGL,0
+581,Google Material Design,0
+581,JIRA,0
+581,RxJava,0
+581,REST API,0
+581,RESTful WebServices,0
+581,XML,0
+581,Spanish,0
+581,Android Studio,0
+581,Apollo GraphQL,0
+581,Dagger (Software),0
+582,Event Planning,16
+582,Social Media,12
+582,Public Speaking,12
+582,Research,11
+582,Editing,8
+582,Copy Editing,4
+582,Proofreading,4
+582,Higher Education,4
+582,Writing,3
+582,Program Development,2
+582,Blogging,1
+582,Newsletters,1
+582,Nonprofits,1
+582,Software Development,0
+582,WordPress,1
+582,Java,0
+582,Ruby on Rails,0
+582,JavaScript,0
+582,Cascading Style Sheets (CSS),0
+582,MySQL,0
+582,Community Outreach,7
+582,Volunteer Management,3
+582,Fundraising,2
+582,Leadership,2
+582,Customer Service,1
+582,Critical Thinking,1
+582,Teaching,0
+582,Mean Stack,0
+582,Social Networking,2
+584,Java,22
+584,Ruby on Rails,11
+584,Python,10
+584,Software Engineering,7
+584,Editing,6
+584,Programming,9
+584,Computer Science,2
+584,Writing,2
+584,Proofreading,0
+584,Creative Writing,2
+584,Copy Editing,0
+584,Data Visualization,2
+584,Education,1
+584,Piano,1
+584,Event Planning,3
+584,HTML,13
+584,JavaScript,9
+584,Ruby,6
+584,CSS,4
+584,Tutoring,11
+584,Web Scraping,0
+587,Teaching,10
+587,Public Speaking,8
+587,Tutoring,6
+587,Curriculum Design,3
+587,Curriculum Development,3
+587,Lesson Planning,2
+587,Event Planning,2
+587,Higher Education,2
+587,K-12,1
+587,Differentiated Instruction,1
+587,Technology Integration,1
+587,Educational Technology,1
+587,Microsoft Office,1
+587,PowerPoint,1
+587,Java,1
+587,Python,1
+587,Autodesk Inventor,1
+587,Educational Leadership,5
+587,Community Outreach,3
+587,Classroom,2
+587,Fundraising,2
+587,Teacher Training,1
+587,Classroom Management,1
+587,Teaching English as a Second Language,1
+587,Instructional Technology,1
+588,CSS,14
+588,CMS,11
+588,HTML,10
+588,User Experience,9
+588,Project Management,5
+588,New Media,5
+588,Web Analytics,3
+588,Content Management,2
+588,Agile Methodologies,2
+588,Information Architecture,1
+588,Software Project Management,1
+588,Content Strategy,1
+588,Web Development,1
+588,Web Design,0
+588,User Interface Design,0
+588,Interaction Design,0
+588,Photography,0
+588,WordPress,9
+588,JavaScript,7
+588,jQuery,7
+588,Perl,1
+588,Google Analytics,1
+588,Java,1
+588,Content Management Systems (CMS),1
+588,Wordpress,0
+588,Dreamweaver,0
+588,Adobe Creative Suite,0
+588,Front-end,1
+589,Leadership Development,0
+589,Social Media Marketing,0
+589,Marketing Strategy,0
+591,Data Analysis,4
+591,Python,1
+591,SQL,1
+591,Machine Learning,0
+591,Research,0
+591,Data Visualization,1
+591,Statistics,0
+591,Java,0
+591,R,0
+591,Amazon Web Services (AWS),0
+591,Microsoft Excel,0
+591,Oracle Database,0
+591,Amazon S3,0
+591,Tableau,1
+591,Google Analytics,0
+591,Excel,0
+593,Microsoft Office,4
+593,Microsoft Word,4
+593,PowerPoint,4
+593,Social Media,4
+593,Blogging,4
+593,Editing,3
+593,Research,3
+593,Event Planning,3
+593,Creative Writing,0
+593,Writing,0
+593,Copy Editing,0
+593,Technical Writing,0
+593,Microsoft Excel,3
+593,Facebook,3
+593,Final Cut Pro,3
+593,WordPress,2
+593,Git,0
+593,Java,0
+593,Python,0
+593,Ruby,0
+593,Ruby on Rails,0
+593,Customer Service,0
+593,Japanese,3
+593,French,3
+593,Spanish,2
+593,Jekyll,0
+593,Technical Publication,0
+593,software do,0
+596,Childcare,2
+596,Gender Studies,2
+596,Leadership,1
+596,Computer Science,1
+596,Cardiopulmonary Resuscitation (CPR),1
+596,Data Structures,1
+596,Cashiering,1
+596,Mental Health,1
+596,Technical Theater,1
+596,iOS Development,0
+596,Java,1
+596,Customer Service,1
+596,Acting,1
+596,Student Council,1
+596,MIPS Assembly,1
+596,Babysitting,1
+596,Queer Studies,1
+596,Gender Politics,1
+596,Feminism,1
+596,Costume Design,1
+596,Computer Architecture,1
+598,Swift,2
+598,C++,3
+598,Java,2
+598,iOS Development,2
+598,Mobile Applications,1
+598,Scrum,1
+598,Agile Methodologies,1
+598,Programming,1
+598,Test Driven Development,0
+598,Unit Testing,0
+598,Kanban,0
+598,JIRA,1
+598,Git,1
+598,iOS,1
+598,Xcode,0
+598,Python,0
+598,Eclipse,0
+598,HTML,0
+598,CSS,0
+598,French,1
+598,UIKit,1
+598,MVC,1
+598,AppKit,1
+598,Mobile Application Development,1
+598,Source control,0
+598,Version Control,0
+598,Finite State Machines,0
+598,MIPS Assembly,0
+599,Java,3
+599,Front-end Coding,3
+599,HTML5,2
+599,Data Structures,2
+599,Project Management,1
+599,Web Design,1
+599,CSS,2
+599,JavaScript,2
+599,Microsoft Office,1
+599,Microsoft Word,1
+599,PowerPoint,1
+599,C,1
+599,Arduino,1
+599,Linux,1
+599,Python,1
+599,Ruby on Rails,1
+599,Eclipse,1
+599,Fedora,1
+599,Vagrant,1
+599,Atom,1
+599,Gremlin,1
+599,JanusGraph,1
+602,Java,0
+602,HTML,0
+602,Swift,1
+602,Cascading Style Sheets (CSS),0
+602,JavaScript,0
+602,Public Speaking,1
+604,Java,1
+604,OpenGL,1
+604,Photoshop,0
+604,Computer Science,1
+604,JavaScript,0
+604,Swift,0
+604,HTML,0
+604,Ubuntu,0
+604,Windows,0
+604,Cascading Style Sheets (CSS),0
+604,Microsoft Office,0
+604,Leadership,0
+604,Interpersonal Skill,0
+604,C++ Language,0
+604,Herpetology,0
+609,Customer Service,10
+609,Teamwork,9
+609,Event Planning,9
+609,Nonprofits,3
+609,Microsoft Office,4
+609,Microsoft Word,1
+609,Public Speaking,4
+609,Management,2
+609,Teaching,2
+609,Team Leadership,2
+609,Fundraising,1
+610,Java,1
+610,Ruby,1
+610,Ruby on Rails,1
+610,Android Development,1
+610,Web Development,1
+610,SQL,1
+610,Relational Databases,1
+610,MongoDB,1
+610,AngularJS,1
+610,Git,1
+610,Python,0
+610,Amazon RDS,0
+610,NoSQL,0
+610,TensorFlow,0
+610,Pandas (Software),0
+610,Mean Stack,1
+610,Express.js,1
+611,Public Speaking,1
+611,Java,0
+611,Teamwork,0
+611,Writing,0
+611,Documentation,0
+611,Research,0
+611,Shell Scripting,0
+611,Python,0
+611,HTML5,0
+611,Python (Programming Language),0
+611,Cascading Style Sheets (CSS),0
+611,JavaScript,0
+611,Customer Service,0
+611,Leadership,0
+611,Mandarin,0
+614,Product Management,0
+614,Software Development,0
+614,Program Management,0
+614,User Experience (UX),0
+614,Agile Project Management,0
+614,Project Management,0
+614,User Experience,0
+614,CRM,0
+614,Analytics,0
+614,Project Planning,0
+614,Cloud Computing,0
+614,Vendor Management,0
+614,Strategy,0
+614,Mobile Applications,0
+614,Scrum,0
+614,Software Development Life Cycle (SDLC),0
+614,Web Project Management,0
+614,SEO,0
+614,Mobile Devices,0
+614,PMP Certification,0
+614,Web Design,0
+614,Web Analytics,0
+614,Multi-channel Marketing,0
+614,SDLC,0
+614,Consulting,0
+614,Software Project Management,0
+614,Digital Marketing,0
+614,User Experience Design,0
+614,Agile Methodologies,0
+614,Sustainability,0
+614,SaaS,0
+614,Leadership,0
+614,Cross-functional Team Leadership,0
+614,Management,0
+614,Creative Services,0
+614,Digital Asset Management,0
+617,Drawing,1
+617,Microsoft Office,0
+617,Customer Service,0
+617,Research,0
+617,Sculpture,0
+617,Project Management,0
+617,Securities,0
+617,Adobe Creative Suite,0
+617,Microsoft Excel,0
+617,Microsoft Word,0
+617,PowerPoint,0
+617,Java,0
+617,Management,0
+617,Public Speaking,0
+617,Leadership,0
+618,Python,8
+618,Working With Children,6
+618,Java,5
+618,Editing,6
+618,Digital Photography,6
+618,Creative Writing,2
+618,Music Theory,1
+618,Technical Support,2
+618,Information Technology,1
+618,Android Development,3
+618,Copy Editing,1
+618,InDesign,2
+618,Adobe Illustrator,1
+618,Adobe Photoshop,0
+618,Lightroom,0
+618,HTML,1
+618,JavaScript,1
+618,jQuery,0
+618,Pandas (Software),1
+618,SPSS,0
+618,Cascading Style Sheets (CSS),0
+618,Eclipse,1
+618,Microsoft Visual Studio Code,1
+618,Git,1
+618,Github,2
+618,Teaching,7
+618,Tutoring,5
+618,Mandarin,2
+618,English,3
+618,Wikipedia,2
+618,Taiwanese,2
+618,Choral Music,1
+618,Scikit-Learn,1
+618,Matplotlib,1
+618,Diversity & Inclusion,2
+618,Cultural Diversity,2
+618,Feminism,1
+618,Android Studio,1
+618,Google API,0
+618,Google Maps API,1
+619,Neural Networks,17
+619,Python,16
+619,Logistic Regression,13
+619,Machine Learning,13
+619,Data Analysis,8
+619,Financial Analysis,2
+619,Statistics,2
+619,Social Media,2
+619,Marketing,1
+619,Finance,0
+619,Research,0
+619,TensorFlow,5
+619,Microsoft Office,2
+619,R,1
+619,Microsoft Excel,1
+619,Amazon Web Services (AWS),1
+619,SQL,0
+619,Microsoft PowerPoint,0
+619,Microsoft Word,0
+619,HTML,0
+619,Cascading Style Sheets (CSS),0
+619,D3.js,0
+619,XML,0
+619,Management,1
+619,Public Speaking,0
+619,Leadership,0
+619,Markov Decision Processes,6
+619,Decision Trees,6
+619,Data Analytics,5
+619,Classification,3
+619,Support Vector Machine (SVM),3
+619,Cluster Analysis,2
+619,Random Forest,2
+619,Exploratory Data Analysis,1
+619,Linear and Convex Optimization,1
+621,Public Speaking,5
+621,Microsoft Excel,2
+621,Leadership,5
+621,Social Media,2
+621,Event Planning,2
+621,Sales,2
+621,Sales Tax,1
+621,Financial Accounting,1
+621,Object-Oriented Programming (OOP),1
+621,Microsoft Office,3
+621,Java,1
+621,Python,1
+621,SQL,0
+621,Javascript,0
+621,Time Management,1
+621,Conflict Resolution,3
+621,Customer Service,3
+621,Business Systems,1
+623,LaTeX,1
+623,SQL,3
+623,Java,3
+623,Printmaking,7
+623,Fine Art,5
+623,Graphic Design,7
+623,Curating,4
+623,Database Administration,3
+623,Administrative Assistants,3
+623,Visual Arts,3
+623,Social Media,2
+623,Research,2
+623,Android Development,0
+623,Salesforce.com,4
+623,Microsoft Excel,4
+623,Photoshop,7
+623,Facebook,4
+623,CSS,2
+623,HTML,2
+623,Adobe Creative Suite,4
+623,Illustrator,3
+623,C++,0
+623,Android,0
+623,Github,0
+623,Git,0
+623,Pandas (Software),0
+623,Open Source Software,0
+623,Leadership,1
+623,Data Quality,1
+623,Data Analytics,1
+623,Android Studio,0
+623,Anaconda,0
+623,Scikit-Learn,0
+625,Talent Acquisition,14
+625,Technical Recruiting,15
+625,Veterans,11
+625,Recruiting,23
+625,Social Media,34
+625,Staffing Services,6
+625,Audio Engineering,33
+625,Army,9
+625,Strength Training,8
+625,Human Resources,4
+625,Marketing,3
+625,Temporary Placement,3
+625,Strategic Planning,1
+625,Information Technology,4
+625,Business Development,2
+625,Sales,17
+625,Consulting,0
+625,Screening,0
+625,Account Management,1
+625,Customer Relationship Management (CRM),0
+625,Internet Recruiting,0
+625,Contract Recruitment,0
+625,Microsoft Office,43
+625,Microsoft Word,30
+625,Logic Pro,23
+625,PowerPoint,21
+625,Microsoft Excel,19
+625,Final Cut Pro,10
+625,Pro Tools,8
+625,Applicant Tracking Systems,1
+625,Leadership,40
+625,Customer Service,44
+625,Public Speaking,25
+625,Team Building,14
+625,Training,21
+625,Management,11
+625,Time Management,12
+625,Team Leadership,6
+625,Interviews,3
+625,Mentoring,2
+625,Cold Calling,3
+625,Sourcing,2
+625,Interviewing,5
+625,Communication,6
+625,Social Networking,29
+625,Networking,10
+626,Team Leadership,16
+626,Public Speaking,16
+626,Lean Process Improvement,0
+626,Project Management,8
+626,Editing,6
+626,Sales,4
+626,Systems Analysis,2
+626,Epidemiology,1
+626,"Extract, Transform, Load (ETL)",0
+626,Microsoft Excel,13
+626,PowerPoint,13
+626,Microsoft Word,7
+626,SQL,6
+626,C++,4
+626,SharePoint,4
+626,Java,4
+626,Python,2
+626,R,2
+626,Amazon Web Services (AWS),0
+626,Java Database Connectivity (JDBC),0
+626,Team Building,15
+626,Community Outreach,8
+626,Leadership Development,6
+626,Management,3
+626,Preventive Medicine,3
+626,Geospatial Data,1
+626,Link Analysis,1
+629,Java,2
+629,Microsoft Office,3
+629,Statistical Data Analysis,2
+629,Cascading Style Sheets (CSS),2
+629,JavaScript,3
+629,Microsoft PowerPoint,0
+629,HTML5,3
+629,Japanese,0
+632,Machine Learning,0
+632,Python (Programming Language),0
+632,Scikit-Learn,0
+632,Computer Science,0
+632,Programming,0
+632,Artificial Intelligence (AI),0
+632,JavaScript,0
+632,Java,0
+632,Xcode,0
+632,Swift,0
+632,TensorFlow,0
+632,HTML,0
+632,Game Programming,0
+632,Data Science,0
+632,Reinforcement Learning,0
+632,Genetic Algorithms,0
+632,Algorithm Auditing,0
+633,Java,0
+633,Ruby on Rails,0
+633,C++,0
+633,Amazon Web Services (AWS),0
+633,Git,0
+634,C++,0
+634,Java,0
+634,Adobe Photoshop,0
+634,Game Design,0
+634,JavaScript,0
+634,Git,0
+634,Node.js,0
+634,HTML,0
+634,Unity,0
+634,Mean Stack,0
+637,Java,2
+637,Git,1
+637,Mean Stack,1
+637,Program Development,20
+637,Program Evaluation,12
+637,Graphic Design,10
+637,Nonprofits,10
+637,Program Management,9
+637,Curriculum Development,6
+637,Non-profits,5
+637,Video Editing,4
+637,Elementary Education,3
+637,PHP,1
+637,MySQL,1
+637,InDesign,3
+637,Adobe Creative Suite,3
+637,Educational Technology,2
+637,Community Outreach,19
+637,Teaching,14
+637,Youth Development,7
+637,Public Speaking,6
+637,Building Relationships,4
+637,Presentations,3
+637,Spanish-speaking,4
+639,Research,8
+639,Java,6
+639,JavaScript,6
+639,Polymerase Chain Reaction (PCR),5
+639,Gel Electrophoresis,4
+639,Protein Purification,1
+639,Molecular Biology,0
+639,Biochemistry,0
+639,Web Development,1
+639,React.js,0
+639,Perl,0
+639,Ruby on Rails,0
+639,Python,6
+639,HTML,5
+639,Cascading Style Sheets (CSS),3
+639,jQuery,3
+639,R,2
+639,Software as a Service (SaaS),0
+639,Microsoft Office,4
+639,Microsoft Word,2
+639,Microsoft PowerPoint,2
+639,Teaching,6
+639,Public Speaking,5
+639,Community Outreach,5
+639,Leadership,5
+639,Management,8
+640,Research,31
+640,Event Planning,20
+640,Public Speaking,16
+640,Event Management,6
+640,Proposal Writing,6
+640,Writing,5
+640,Editing,3
+640,Market Research,2
+640,Data Analysis,2
+640,Report Writing,1
+640,Education,1
+640,Social Media,1
+640,Resume Writing,0
+640,Microsoft Excel,6
+640,Microsoft Office,3
+640,Fundraising,15
+640,Leadership,13
+640,Teamwork,9
+640,Critical Thinking,8
+640,Communication,6
+640,Teaching,6
+640,Conflict Resolution,1
+640,English,3
+640,Bahasa Indonesia,0
+640,Organization,1
+640,Group Dynamics,2
+640,Argumentation,1
+640,Oral Arguments,1
+640,Oral & Written Communication Skills,0
+640,Written & Oral Presentation Skills,0
+641,Research,10
+641,Cell Culture,7
+641,Data Analysis,7
+641,PCR,3
+641,Android Development,3
+641,Gel Electrophoresis,2
+641,Hospitals,1
+641,Software Documentation,1
+641,Microscopy,1
+641,Algorithms,1
+641,Western Blotting,0
+641,Laboratory,0
+641,Program Management,0
+641,iOS Development,0
+641,Microsoft Excel,3
+641,Java,3
+641,Epic Systems,2
+641,PowerPoint,2
+641,Microsoft PowerPoint,1
+641,Python,1
+641,HTML,0
+641,Cascading Style Sheets (CSS),0
+641,Swift,0
+641,Kotlin,0
+642,Android Studio,2
+642,Java,2
+642,Data Structures,2
+642,Writing,2
+642,Research,0
+642,Github,2
+642,Microsoft Office,0
+642,Microsoft PowerPoint,0
+642,Microsoft Excel,0
+642,Public Speaking,1
+642,Peer Tutoring,1
+643,Python,1
+643,Java,1
+643,JavaScript,1
+643,Web Development,1
+643,Technical Writing,2
+643,Copy Editing,7
+643,Proofreading,9
+643,WordPress,0
+643,SQL,0
+643,Django,0
+643,AngularJS,0
+643,React.js,0
+643,Webpack,0
+643,Flask,0
+643,Italian languages,2
+645,Training,1
+645,Microsoft Office,1
+645,Testing,1
+645,Technical Support,1
+645,SAP ERP,1
+645,ADP Payroll,1
+645,Customer Service,1
+645,Data Conversion,1
+646,Java,2
+646,JavaScript,2
+646,HTML5,2
+646,Web Development,1
+646,Software Development,1
+646,Python (Programming Language),2
+646,Bootstrap,2
+646,PostgreSQL,2
+646,CSS,1
+646,jQuery,1
+646,HTML,1
+646,css,1
+646,AJAX,1
+646,SQL,1
+646,WordPress,0
+646,Android,0
+646,Flask,1
+646,SQLAlchemy,1
+646,Jinja,1
+646,Full-Stack Development,1
+647,Java,3
+647,Eclipse,2
+647,Writing,4
+647,Proofreading,2
+647,C#,2
+647,Android SDK,4
+647,Xcode,2
+647,Swift,2
+647,Android Studio,2
+647,Unity,2
+648,Java,1
+648,JavaScript,0
+648,Windows 7,0
+648,Electronics,0
+648,Computer Maintenance,0
+648,Spatial Analysis,0
+648,Healthcare Research,0
+648,Healthcare Management,0
+648,Microsoft Office,0
+648,Microsoft Excel,0
+648,Microsoft Word,0
+648,PowerPoint,0
+648,HTML,0
+648,Maven,0
+648,XML,0
+648,Computer Hardware,0
+648,jQuery,0
+648,3DS Max,0
+648,Linux,1
+648,Backbone.js,0
+648,Salesforce.com,0
+648,Public Speaking,0
+648,Jetty,0
+648,Computer Hardware Installation,0
+648,Computer Hardware Assembly,0
+648,Debate,0
+648,healthcare Law,0
+648,Community Health,0
+648,Autodesk Software,0
+648,Microsoft Office 2007,0
+648,Report Writing Skills,0
+648,Healthcare Information Systems,0
+648,Healthcare Infection Control,0
+648,Healthcare Legislation,0
+649,Amazon Web Services (AWS),0
+649,Networking,25
+649,Operating Systems,19
+649,Cloud Computing,19
+649,Software Development,9
+649,TCP/IP,6
+649,Security,6
+649,Virtualization,5
+649,Storage,5
+649,Network Administration,5
+649,SAN,4
+649,Telecommunications,3
+649,Project Management,2
+649,VoIP,2
+649,Data Center,2
+649,Product Management,1
+649,Troubleshooting,1
+649,Linux,19
+649,Servers,17
+649,Cisco Technologies,14
+649,Unix,12
+649,Python,10
+649,SaaS,7
+649,Perl,6
+649,C,5
+649,PHP,5
+649,SQL,4
+649,Android,3
+649,Databases,2
+649,VMware ESX,1
+649,Enterprise Software,1
+649,Red Hat Linux,1
+649,iOS,1
+649,PaaS,2
+649,Puppet,1
+651,Java,1
+651,Python,2
+651,SAS,0
+651,Microsoft Excel,1
+651,Microsoft Office,1
+651,C++,0
+651,SQL,0
+651,Leadership,2
+651,Management,2
+651,Customer Service,2
+651,Teamwork,0
+150,CRM,22
+150,Microsoft CRM,19
+150,Social Media Marketing,16
+150,Cloud Computing,15
+150,Social Media,12
+150,eLearning,6
+150,E-Learning,6
+150,Customer Satisfaction,5
+150,Consulting,5
+150,Customer Retention,4
+150,Painting,2
+150,Business Development,1
+150,SaaS,10
+150,Wordpress,6
+150,Illustrator,5
+150,AutoCAD,5
+150,Maya,3
+150,WordPress,3
+150,Premiere,2
+150,Microsoft Dynamics CRM,1
+150,Training,16
+150,Management,14
+150,Customer Service,8
+150,SCORM,6
+150,Toon Boom,2
+150,Wacom Tablet,1
+150,Litmos,5
+150,Parrot,1
+157,Product Management,3
+157,Enterprise Software,2
+157,SaaS,2
+157,Business Intelligence,2
+157,Cloud Computing,1
+157,Requirements Analysis,1
+157,Business Strategy,1
+157,Program Management,1
+157,Project Management,1
+157,Software Project Management,1
+157,Integration,1
+157,ERP,1
+157,Business Process,1
+157,Leadership,1
+198,Program Management,3
+198,Team Leadership,3
+198,Project Management,3
+198,Strategic Planning,3
+198,Customer Relationship Management (CRM),3
+198,CRM,2
+198,Software Development,2
+198,Sales Management,1
+198,Entrepreneurship,1
+198,Microsoft Excel,1
+198,Microsoft Office,1
+198,Microsoft Word,1
+198,Photoshop,1
+198,Leadership,3
+198,Customer Service,3
+198,Team Building,3
+549,Computer Science,1
+549,Leadership,3
+549,Java,4
+549,Research,5
+549,Sociology,0
+549,Event Planning,2
+549,Editing,1
+549,Higher Education,0
+549,Programming,1
+549,Web Development,0
+549,Software Development,0
+549,MySQL,1
+549,GIS,1
+549,Ruby,0
+549,Python,0
+549,JavaScript,0
+549,SQL,0
+549,HTML,1
+549,Cascading Style Sheets (CSS),0
+549,Microsoft Office,0
+549,Supervisory Skills,0
+549,Community Outreach,0
+549,Public Speaking,1
+549,Qualitative Research,0
+549,Teaching,0
+549,Anthropology,1
+572,JavaScript,1
+572,React.js,1
+572,Node.js,1
+572,Django,1
+572,Ruby on Rails,1
+572,Java,1
+572,MongoDB,1
+572,AngularJS,1
+572,HTML,1
+572,Python,1
+572,CSS,1
+572,AWS,0
+572,SQL,0
+572,Linux,0
+572,Vagrant,0
+572,Chef,0
+579,Microsoft Office,0
+579,Customer Service,0
+579,Microsoft Excel,0
+579,Research,0
+579,Project Management,0
+579,Microsoft PowerPoint,0
+579,Public Speaking,0
+579,French,0
+579,German,0
+580,Java,5
+580,JavaScript,2
+580,Python,3
+580,Research,6
+580,Nonprofits,0
+580,Node.js,3
+580,MySQL,0
+580,PHP,0
+580,MongoDB,3
+580,HTML,0
+580,Assembly Language,0
+580,Objective-C,0
+580,LaTeX,0
+580,Xcode,0
+580,Unix,1
+580,Public Speaking,6
+580,Tutoring,2
+580,Community Outreach,1
+586,Java,1
+586,LaTeX,0
+586,JavaScript,0
+586,Computer Science,0
+586,Mathematics,0
+586,Programming,0
+586,Swift,0
+586,HTML5,0
+586,CSS,0
+586,Tutoring,0
+586,Go,0
+586,Scheme,0
+624,Public Speaking,9
+624,Leadership,9
+624,Java,4
+624,Planning,5
+624,Numerical Analysis,0
+624,Computer-Aided Design (CAD),0
+624,Social Media,1
+624,Event Planning,0
+624,Direct Marketing,0
+624,Programming,1
+624,Android Development,3
+624,Microsoft Excel,5
+624,Microsoft Word,2
+624,MATLAB,0
+624,C,0
+624,C++,1
+624,SolidWorks,0
+624,Google Analytics,0
+624,Management,4
+624,Customer Service,1
+624,Customer Support,0
+624,Organization Skills,2
+624,Amazon,0
+631,Translation,7
+631,English,6
+631,Language Teaching,4
+631,Research,3
+631,Editing,3
+631,Legal Translation,3
+631,Technical Translation,2
+631,Elementary Education,1
+631,Secondary Education,0
+631,Nonprofits,0
+631,International Education,0
+631,Android Development,0
+631,iOS Development,0
+631,Microsoft Office,1
+631,java,0
+631,Python,0
+631,JavaScript,0
+631,Github,0
+631,Teaching English as a Second Language,2
+631,Teaching,1
+631,SDL Trados 2014,0
+631,Spanish>English Translation,0
+631,French>English Translation,0
+631,Italian>English Translation,0
+132,Policy Analysis,10
+132,Public Policy,8
+132,Research,8
+132,Program Development,5
+132,Program Evaluation,4
+132,Analysis,4
+132,Nonprofits,2
+132,Social Media,1
+132,Data Analysis,0
+132,Pivot Tables,0
+132,Microsoft Office,1
+132,JIRA,0
+132,Qualitative Research,7
+132,Community Outreach,4
+132,Fundraising,1
+132,Leadership,1
+132,Excel Dashboards,0
+132,JQL,0
+357,Research,2
+357,Algorithms,1
+357,HTML,1
+357,MySQL,1
+357,Python,1
+357,JavaScript,1
+357,Theory,1
+411,Instructional Design,2
+411,Writing,0
+411,Geography,10
+411,Research,11
+411,E-Learning,0
+411,Cartography,7
+411,Remote Sensing,7
+411,Technical Writing,5
+411,Project Management,4
+411,Data Analysis,4
+411,Software Documentation,3
+411,Environmental Science,2
+411,Science,1
+411,Agile Methodologies,0
+411,GIS,8
+411,Photoshop,1
+411,Training,7
+411,Teaching,7
+411,Canvas,0
+411,Articulate Storyline,0
+411,Camtasia,0
+411,confluence,0
+411,Trello,0
+411,ADDIE,0
+411,certification process,0
+411,Rally,0
+427,Artificial Intelligence,44
+427,Programming,43
+427,Computer Science,30
+427,Research,18
+427,Modeling,18
+427,Physics,15
+427,Software Engineering,14
+427,Algorithms,14
+427,Machine Learning,12
+427,Science,8
+427,Mathematical Modeling,7
+427,Simulations,7
+427,Higher Education,5
+427,Image Processing,5
+427,Signal Processing,5
+427,Statistics,5
+427,Software Development,4
+427,Computer Vision,3
+427,Knowledge Management,2
+427,Matlab,18
+427,LaTeX,6
+427,Teaching,14
+427,University Teaching,10
+427,Lecturing,5
+427,English,3
+427,Pattern Recognition,4
+427,Neural Networks,3
+427,Theory,7
+542,Public Speaking,7
+542,Microsoft Office,5
+542,Research,4
+542,Creative Writing,3
+542,Social Media,2
+542,Blogging,1
+542,Politics,1
+542,Leadership,3
+542,English,3
+542,Conversational Spanish,1
+542,Spanish,1
+542,American Politics,2
+542,Barista,0
+542,Social Networking,4
+595,Westlaw,6
+595,Legal Research,3
+595,Litigation,2
+595,Legal Writing,1
+595,Trials,1
+595,Legal Assistance,0
+595,Civil Litigation,0
+595,Legal Documents,0
+595,Litigation Support,0
+595,Intellectual Property,0
+595,Document Review,0
+595,Corporate Law,0
+595,Commercial Litigation,0
+595,Pleadings,0
+595,Research,0
+595,PowerPoint,0
+595,Microsoft Excel,0
+595,Microsoft Office,0
+595,Wordperfect,0
+595,Motions,0
+595,Paralegals,0
+595,Courts,1
+595,Lexis,0
