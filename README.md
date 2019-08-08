@@ -1,6 +1,11 @@
 # alumbuild
 This project reads in alumni names and search fro their LinkedIn profile. Then scrape and parse profiles and saves as a MySQL database.
 
+## requirements
+1. chromedriver
+2. selenium
+3. mysql.connector
+
 ## Run searchNewLinks 
 This step to obtain possible profile links of each alumni. Manual validation needed tp select the one ture profile.
 
